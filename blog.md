@@ -1,6 +1,6 @@
 ## Was your first week what you expected? Why? Why not?
 
->My first week was exactly what I expected it to be, a lot of information.
+>My first week was exactly what I expected it to be, a lot of information at once. A lot of good resources have been provided through slack to assist in understanding the topics at hand better. Ive done remote learning and taking meetings through zoom in the past so I kinda knew what to expect. 
 
 ![head spinning](https://user-images.githubusercontent.com/123384146/214874699-d452706d-e21e-4046-9b21-07fc007d98ae.jpeg)
 
