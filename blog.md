@@ -1,6 +1,6 @@
 ## Was your first week what you expected? Why? Why not?
 
->
+>My first week was exactly what I expected it to be, a lot of information at once. 
 
 ## What are you excited or eager to learn more about?
 
