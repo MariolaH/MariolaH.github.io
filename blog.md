@@ -1,4 +1,4 @@
-## **Was your first week what you expected? Why? Why not?**
+## Was your first week what you expected? Why? Why not?
 
 
 
