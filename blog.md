@@ -2,6 +2,9 @@
 
 >My first week was exactly what I expected it to be, a lot of information.
 
+![head spinning](https://user-images.githubusercontent.com/123384146/214874699-d452706d-e21e-4046-9b21-07fc007d98ae.jpeg)
+
+
 ## What are you excited or eager to learn more about?
 
 >I took the Intro to Web Development program in the fall, we focused on HTML, CSS, JavaScript and Bootstrap, I’m excited to learn more languages and create fun things with them. 
