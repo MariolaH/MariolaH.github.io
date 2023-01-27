@@ -1,3 +1,5 @@
+# Mariola's Blog
+
 ## Was your first week what you expected? Why? Why not?
 
 >My first week was exactly what I expected it to be, a lot of information at once. A lot of good resources have been provided through slack to assist in understanding the topics at hand better. I've done remote learning and taken meetings through zoom in the past so I kinda knew what to expect. 
