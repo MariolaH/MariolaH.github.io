@@ -1,3 +1,5 @@
+/* BLOG STYLING */
+
 h1 {
     color: navy;
 }
@@ -14,7 +16,7 @@ h1 {
     font-size: 70px;
     padding-top: 60px;
     padding-bottom: 60px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;\
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
 
@@ -23,34 +25,30 @@ h2 {
     border: 1px solid black;
 }
 
+picture {
+
+    height: 50px;
+}
+
+
+/* CARD STYLING */
 
 img {
-    width: 325px;
-    height: 290px;
+    width: 225px;
+    height: auto;
     display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: 35px;
-  padding-bottom: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 85px;
+    padding-bottom: 35px;
 }
 
-p {
-    padding-bottom: 50px;
-}
-.card {
-    margin: 0 auto; /* Added */
-    float: none; /* Added */
-    margin-bottom: 10px; /* Added */
-}
+
 
 .card-img-top {
     width: 50px;
     height: 30px;
-    object-fit: cover;}
+    object-fit: cover;
+}
 
 
-    .img {
-height: 50px;
-width: 40px;
-
-    }
