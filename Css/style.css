@@ -37,3 +37,20 @@ img {
 p {
     padding-bottom: 50px;
 }
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.card-img-top {
+    width: 50px;
+    height: 30px;
+    object-fit: cover;}
+
+
+    .img {
+height: 50px;
+width: 40px;
+
+    }
