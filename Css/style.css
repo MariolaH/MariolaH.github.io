@@ -48,6 +48,14 @@ img {
 .icon1 {
     padding-right: 5px;
 }
+
+.card-title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 55px;
+   color: navy;
+}
+
+
 /* .icon1 {
     padding-right: 20px;
 } */
