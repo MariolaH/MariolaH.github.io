@@ -33,7 +33,7 @@ picture {
 
 /* CARD STYLING */
 
-img {
+.profilePic {
     width: 205px;
     height: auto;
     display: block;
@@ -50,8 +50,8 @@ img {
    color: navy;
 }
 
- .icon4 {
-    padding-left: 15px;
+.btnSVG {
+    height: 40px;
 }
 
 /* .icon1 {
