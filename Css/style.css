@@ -1,16 +1,16 @@
 /* BLOG STYLING */
 
-h1 {
+/* h1 {
     color: navy;
-}
+} */
 
-body {
+/* body {
     margin: 0px;
     padding-left: 100px;
     padding-bottom: 100px;
     padding-right: 100px;
-}
-
+} */
+/* 
 h1 {
     text-align: center;
     font-size: 70px;
@@ -18,9 +18,9 @@ h1 {
     padding-bottom: 60px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
-}
+} */
 
-h2 {
+/* h2 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border: 1px solid black;
 }
@@ -28,7 +28,7 @@ h2 {
 picture {
 
     height: 50px;
-}
+} */
 
 
 /* CARD STYLING */
@@ -45,9 +45,9 @@ img {
     
 }
 
-.icon1 {
+/* .icon1 {
     padding-right: 5px;
-}
+} */
 /* .icon1 {
     padding-right: 20px;
 } */
