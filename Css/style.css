@@ -45,13 +45,18 @@ h2 {
     
 }
 
-.card-title {
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 45px;
-   color: rgb(6, 9, 84);
-}
-
 .btnSVG {
     height: 40px;
 }
+
+
+
+
+
+/* .card-title { */
+    /* font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    /* font-size: 45px; */
+   /* color: rgb(6, 9, 84); */
+/* } */
+
 
