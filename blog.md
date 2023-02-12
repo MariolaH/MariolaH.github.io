@@ -34,8 +34,24 @@ What hinder my progress during onboarding was getting stuck on a topic and spend
 I overcame challenges during onboarding by asking more questions, asking for help and reviewing the material several times. 
 ```
 ```
+I don’t believe anything really held me back this week, whenever I had a question or didn’t understand something I did some research on the topic or asked for help.
+
+```
+```
 One thing I would really like to understand better is JavaScript functions and loops. For some reason I am having a hard time understanding how to write a function and what some of the syntax means and how it all works together. 
 ```
 ```
 Person learning compared to remote there is always someone there to help you with an issue, whether it’s an instructor or classmate. We do have a help channel on slack and everyone is always available, but I believe in person is a different experience. 
+```
+```
+This week we learned about state and bootstrap, and followed our learning with two assignments. Working on both assignments helped me better understand the topics at hand.
+```
+```
+What I think it means to develop good code is it starts with good pseudocode then it develops into clean and concise code.
+```
+```
+I think what it means to be a good developer is you have to be a good problem solver. A lot of the time it seems like you run into bugs or code that doesn’t work and you have to figure out where the bug is and how to resolve the issue. 
+```
+```
+One thing that programmers would hate is looking at other programmers code not being able to decipher what is what. This is why adding comments to code helps you and other programmers navigate through code better. 
 ```
