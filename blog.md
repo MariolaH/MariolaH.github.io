@@ -28,7 +28,7 @@ I think what was really helpful during onboarding remotely was the availability 
 ```
 What hinder my progress during onboarding was getting stuck on a topic and spending too much time trying to figure out the answer on my own. Looking back I should have ask for help much sooner than I did. 
 ```
-<img src=images/frustrated.jpeg />
+<img src='images/frustrated.jpeg' height="150"/>
 
 ```
 I overcame challenges during onboarding by asking more questions, asking for help and reviewing the material several times. 
