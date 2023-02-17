@@ -66,7 +66,7 @@ Person learning compared to remote there is always someone there to help you wit
 ```
 What did you learn about that helped you understand the development process?
 
-This week we learned about state and bootstrap, and followed our learning with two assignments. Working on both assignments helped me better understand the topics at hand.
+This week we learned about axios and APIs, and followed our learning with two assignments. Working on both assignments helped me better understand the topics at hand.
 ```
 ```
 What does it mean to develop good code?
