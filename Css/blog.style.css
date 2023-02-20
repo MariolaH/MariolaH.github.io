@@ -15,3 +15,7 @@ body {
     padding: 50 px;
     background-color: rgb(222, 201, 173);
 }
+
+topBar {
+    font-size: 150 px;
+}
