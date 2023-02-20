@@ -1,0 +1,11 @@
+.homePagePic {
+    width: 150px;
+    height: auto;
+
+}
+
+body {
+    margin: 10 px;
+    padding: 50 px;
+    background-color: rgb(222, 201, 173);
+}
