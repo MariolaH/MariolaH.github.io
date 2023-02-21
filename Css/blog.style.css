@@ -1,7 +1,6 @@
 .homePagePic {
     width: 350px;
     height: auto;
-
 }
 
 /* .homePagePic1 {
@@ -51,7 +50,7 @@ a:active { text-decoration: none; color: black;}
 
 h2 {
     font-family: monospace;
-    font-size: 22px;
+    font-size: 27px;
 }
 
 .CardHeader {
@@ -116,3 +115,6 @@ padding-bottom: 20px;
     font-size: 20px;
     font-family: monospace;
 }
+
+/* blog */
+
