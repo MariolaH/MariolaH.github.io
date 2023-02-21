@@ -51,6 +51,7 @@ a:active { text-decoration: none; color: black;}
 
 h2 {
     font-family: monospace;
+    font-size: 22px;
 }
 
 .CardHeader {
