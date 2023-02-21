@@ -16,6 +16,20 @@ body {
     background-color: rgb(222, 201, 173);
 }
 
-topBar {
-    font-size: 150 px;
+.topBar {
+    size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.frame {
+    border: 5px solid rgb(13, 12, 12);
+    /* padding: 20px; */
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 60px;
+}
+
+.btnSVG {
+    padding: 20px;
+
 }
