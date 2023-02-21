@@ -11,17 +11,18 @@
 }
 
 body {
-    margin: 10 px;
-    padding: 50 px;
+    margin: 20 px;
+    padding: 30 px;
     background-color: rgb(222, 201, 173);
 }
 
 .frame {
     border: 5px solid rgb(13, 12, 12);
+    box-shadow: 0 0 0 12px rgb(242, 240, 242);
     /* padding: 20px; */
-    margin-left: 60px;
-    margin-right: 60px;
-    margin-bottom: 60px;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-bottom: 90px;
 }
 
 nav {
@@ -29,6 +30,7 @@ nav {
     padding-bottom: 10px;
     font-family: monospace;
     color: black;
+    list-style-type: none;
 }
 
 /* contact */
@@ -46,4 +48,25 @@ nav {
 
 .frameContact{
     margin-top: 120px;
+}
+
+/* blog */
+
+.card {
+    /* padding-left: 20px;
+    padding-right: 20px; */
+    margin: 50px;
+}
+
+.card {
+    border-radius: 40%;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+h1 {
+text-align: center;
+font-family: monospace;
+padding-top: 20px;
+padding-bottom: 20px;
 }
