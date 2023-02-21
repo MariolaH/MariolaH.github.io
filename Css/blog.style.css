@@ -1,5 +1,5 @@
 .homePagePic {
-    width: 150px;
+    width: 200px;
     height: auto;
 
 }
@@ -10,6 +10,7 @@
     height: auto;
 }
 
+
 body {
     margin: 20 px;
     padding: 30 px;
@@ -18,16 +19,16 @@ body {
 
 .frame {
     border: 5px solid rgb(13, 12, 12);
-    box-shadow: 0 0 0 12px rgb(242, 240, 242);
+    box-shadow: 0 0 0 12px rgb(190, 117, 45);
     /* padding: 20px; */
     margin-left: 90px;
     margin-right: 90px;
-    margin-bottom: 90px;
+    margin-bottom: 50px;
 }
 
 nav {
-    font-size: 25px;
-    padding-bottom: 10px;
+    font-size: 20px;
+    padding-bottom: 20px;
     font-family: monospace;
     color: black;
     list-style-type: none;
@@ -62,6 +63,9 @@ nav {
     border-radius: 40%;
     text-align: center;
     padding-bottom: 10px;
+    border: 3px solid rgb(13, 12, 12);
+    box-shadow: 0 0 0 12px rgb(242, 240, 242);
+
 }
 
 h1 {
@@ -70,3 +74,10 @@ font-family: monospace;
 padding-top: 20px;
 padding-bottom: 20px;
 }
+
+/* .containerBlog{
+    background-image: url("/Css/blog post IMAGES/beige 3.jpeg");;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+} */
