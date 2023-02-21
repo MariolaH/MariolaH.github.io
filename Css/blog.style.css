@@ -1,14 +1,14 @@
 .homePagePic {
-    width: 200px;
+    width: 250px;
     height: auto;
 
 }
 
-.homePagePic1 {
+/* .homePagePic1 {
 
-    width: 350px;
+    width: 250px;
     height: auto;
-}
+} */
 
 
 body {
@@ -21,14 +21,15 @@ body {
 
 
 .frame {
-    border: 2px solid rgb(13, 12, 12);
-    box-shadow: 0 0 0 6px rgb(190, 117, 45);
-    background-image: linear-gradient(to bottom right, rgb(222, 201, 173), rgb(237, 236, 230), rgb(240, 175, 84));
+    /* border: 2px solid rgb(13, 12, 12);
+    box-shadow: 0 0 0 6px rgb(55, 53, 51); */
+    /* background-image: linear-gradient(to bottom right, rgb(222, 201, 173), rgb(237, 236, 230), rgb(240, 175, 84)); */
+    background-image: linear-gradient(to bottom right, rgb(11, 11, 11), rgb(237, 236, 230), rgb(106, 104, 100));
     /* padding: 20px; */
     margin-left: 90px;
     margin-right: 90px;
     margin-bottom: 50px;
-    border-radius: 10%;
+    /* border-radius: 10%; */
 }
 
 nav {
@@ -42,15 +43,25 @@ a:link { text-decoration: none; color: black;}
 
 a:visited { text-decoration: none; color: black;}
 
-a:hover { text-decoration: none; color: rgb(133, 74, 6);}
+a:hover { text-decoration: none; color: rgb(241, 229, 215);}
 
 a:active { text-decoration: none; color: black;}
 
+h2 {
+    font-family: monospace;
+}
+
+.card-header {
+    font-size: 20px;
+    font-family: monospace;
+    color: rgb(106, 104, 100);
+}
 
 /* contact */
 
 .btnSVG {
     padding: 20px;
+    height: 20px;
 
 }
 
@@ -62,6 +73,7 @@ a:active { text-decoration: none; color: black;}
 
 .frameContact{
     margin-top: 120px;
+    
 }
 
 /* blog */
