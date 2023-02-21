@@ -14,16 +14,20 @@
 body {
     margin: 20 px;
     padding: 30 px;
-    background-color: rgb(222, 201, 173);
+    /* background-color: rgb(222, 201, 173); */
+    background-image: linear-gradient(to bottom right, rgb(222, 201, 173), rgb(237, 236, 230), rgb(225, 145, 34));
+    min-height: 100vh;
 }
 
+
 .frame {
-    border: 5px solid rgb(13, 12, 12);
-    box-shadow: 0 0 0 12px rgb(190, 117, 45);
+    border: 2px solid rgb(13, 12, 12);
+    box-shadow: 0 0 0 8px rgb(190, 117, 45);
     /* padding: 20px; */
     margin-left: 90px;
     margin-right: 90px;
     margin-bottom: 50px;
+    border-radius: 10%;
 }
 
 nav {
@@ -31,8 +35,16 @@ nav {
     padding-bottom: 20px;
     font-family: monospace;
     color: black;
-    list-style-type: none;
-}
+        list-style-type: none;}
+
+a:link { text-decoration: none; color: black;}
+
+a:visited { text-decoration: none; color: black;}
+
+a:hover { text-decoration: none; color: rgb(133, 74, 6);}
+
+a:active { text-decoration: none; color: black;}
+
 
 /* contact */
 
