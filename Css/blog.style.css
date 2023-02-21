@@ -33,11 +33,13 @@ body {
 }
 
 nav {
-    font-size: 25px;
+    font-size: 20px;
     padding-bottom: 20px;
     font-family: monospace;
     color: black;
-        list-style-type: none;}
+        list-style-type: none;
+    background-color:rgb(175, 174, 173);
+    }
 
 a:link { text-decoration: none; color: black;}
 
