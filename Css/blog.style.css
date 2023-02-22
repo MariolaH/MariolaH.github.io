@@ -25,28 +25,40 @@ body {
     /* background-image: linear-gradient(to bottom right, rgb(222, 201, 173), rgb(237, 236, 230), rgb(240, 175, 84)); */
     background-image: linear-gradient(to bottom right, rgb(11, 11, 11), rgb(237, 236, 230), rgb(106, 104, 100));
     /* padding: 20px; */
-    margin-left: 90px;
-    margin-right: 90px;
+    margin-left: 280px;
+    margin-right: 280px;
     margin-bottom: 50px;
     /* border-radius: 10%; */
 }
 
 nav {
-    font-size: 20px;
-    padding-bottom: 20px;
+    font-size: 15px;
+    padding-bottom: 5px;
     font-family: monospace;
     color: black;
-        list-style-type: none;
-    background-color:rgb(175, 174, 173);
-    }
+    list-style-type: none;
+    background-color: rgb(175, 174, 173);
+}
 
-a:link { text-decoration: none; color: black;}
+a:link {
+    text-decoration: none;
+    color: black;
+}
 
-a:visited { text-decoration: none; color: black;}
+a:visited {
+    text-decoration: none;
+    color: black;
+}
 
-a:hover { text-decoration: none; color: rgb(219, 55, 14);}
+a:hover {
+    text-decoration: none;
+    color: rgb(219, 55, 14);
+}
 
-a:active { text-decoration: none; color: black;}
+a:active {
+    text-decoration: none;
+    color: black;
+}
 
 h2 {
     font-family: monospace;
@@ -68,13 +80,13 @@ h2 {
 
 .btnSVG2 {
     height: 50px;
-    padding-right: 100px;
-    padding-left: 100px;
+    padding-right: 75px;
+    padding-left: 75px;
 }
 
-.frameContact{
+.frameContact {
     margin-top: 120px;
-    
+
 }
 
 /* blog */
@@ -95,10 +107,10 @@ h2 {
 }
 
 h1 {
-text-align: center;
-font-family:monospace;
-padding-top: 20px;
-padding-bottom: 20px;
+    text-align: center;
+    font-family: monospace;
+    padding-top: 40px;
+    padding-bottom: 20px;
 }
 
 /* .containerBlog{
@@ -117,4 +129,3 @@ padding-bottom: 20px;
 }
 
 /* blog */
-
