@@ -38,6 +38,7 @@ nav {
     color: black;
     list-style-type: none;
     background-color: rgb(175, 174, 173);
+    /* background-color: a5a5a5; */
 }
 
 a:link {
