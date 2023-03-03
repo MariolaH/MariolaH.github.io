@@ -1,0 +1,20 @@
+body {
+    margin: 20 px;
+    padding: 130 px;
+
+}
+
+.square {
+padding-left: 170px;
+padding-right: 50px;
+height: auto;
+width: 550px;
+}
+
+h2{
+    padding:25px;
+}
+
+p {
+    padding: 30px;
+}
