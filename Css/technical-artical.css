@@ -13,8 +13,38 @@ width: 550px;
 
 h2{
     padding:25px;
+    font-family:monospace;
+    line-height: 200%;
+    color: rgb(134, 30, 7);
 }
 
-p {
-    padding: 30px;
+.mainParagraph {
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: monospace;
+    line-height: 260%;
+}
+.bottomParagraph {
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: monospace;
+    line-height: 260%;
+}
+.row {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+ul {
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: monospace;
+    line-height: 260%;
+}   
+
+.example{
+    list-style-type: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 260%;
 }
