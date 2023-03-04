@@ -15,7 +15,8 @@ h2{
     padding:25px;
     font-family:monospace;
     line-height: 200%;
-    color: rgb(134, 30, 7);
+    color: rgb(3, 3, 3);
+    text-shadow: rgb(219, 55, 14);
     font-size: 32px;
 }
 
