@@ -1,6 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import "./Css/blog.style.css";
 import MainPage from './Component/MainPage';
 
 function App() {
