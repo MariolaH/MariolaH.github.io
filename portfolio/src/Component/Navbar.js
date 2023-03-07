@@ -1,6 +1,6 @@
 function Navbar() {
   return (
-    <div className="nav mb-5">
+      <div className="nav mb-5">
       <div className="container">
         <div className="row d-flex justify-content-center align-items-center py-3">
           <div className="col-2 d-flex justify-content-center align-items-center py-3">
@@ -25,6 +25,7 @@ function Navbar() {
         </div>
       </div>
     </div>
+
   );
 }
 

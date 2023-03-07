@@ -36,8 +36,8 @@ body {
     padding-bottom: 5px;
     font-family: monospace;
     color: black; */
-    list-style-type: none;
-    background-color: rgba(216, 211, 202, 0.591);
+    /* list-style-type: none; */
+    background-color: rgb(232, 231, 230);
     /* background-color: a5a5a5; */
 }
 
