@@ -1,3 +1,5 @@
+import React from "react";
+
 function Projects() {
   return (
     <>
@@ -22,7 +24,8 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript, React
                     </p>
-                    <button></button> <button></button>
+                    <button className="btn">View Project</button>
+                    <button className="btn">View Repo</button>
                   </div>
                 </div>
               </div>
@@ -41,7 +44,8 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, JavaScript
                     </p>
-                    <button></button> <button></button>
+                    <button className="btn">View Project</button>
+                    <button className="btn">View Repo</button>
                     <br />
                   </div>
                 </div>
@@ -61,7 +65,8 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript
                     </p>
-                    <button></button> <button></button>
+                    <button className="btn">View Project</button>
+                    <button className="btn">View Repo</button>
                     <br />
                   </div>
                 </div>
@@ -81,7 +86,8 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, JavaScript
                     </p>
-                    <button></button> <button></button>
+                    <button className="btn">View Project</button>
+                    <button className="btn">View Repo</button>
                     <br />
                   </div>
                 </div>

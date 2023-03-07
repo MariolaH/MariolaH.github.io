@@ -31,13 +31,13 @@ body {
     /* border-radius: 10%; */
 }
 
-nav {
-    font-size: 15px;
+.nav {
+    /* font-size: 10px;
     padding-bottom: 5px;
     font-family: monospace;
-    color: black;
+    color: black; */
     list-style-type: none;
-    background-color: rgb(175, 174, 173);
+    background-color: rgba(216, 211, 202, 0.591);
     /* background-color: a5a5a5; */
 }
 
@@ -46,15 +46,22 @@ a:link {
     color: black;
 }
 
-a:visited {
-    text-decoration: none;
-    color: black;
+.btn {
+    .btn:focus {
+    outline: none !important;
+    outline-offset: none !important;
+}
 }
 
 a:hover {
     text-decoration: none;
     color: rgb(219, 55, 14);
 }
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
 
 a:active {
     text-decoration: none;

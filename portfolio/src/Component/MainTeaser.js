@@ -22,7 +22,7 @@ function MainTeaser() {
                                 <p className="card-text">My first week was exactly what I expected it to be, a lot of
                                     information at once. A lot of good resources have been provided through...</p>
                                 <br />
-                                <a href="/HTML/Blog.html" className="btn-outline-dark btn-lg">B L O G</a>
+                                <button className="btn btn-outline-dark button btn-lg">B L O G</button>
                             </div>
                         </div>
 
@@ -55,7 +55,7 @@ function MainTeaser() {
                                 <p className="card-text">Something about me that could only be learned by reading this blog
                                     is that I love to travel. I met my husband...</p>
                                 <br />
-                                <a href="/HTML/Blog.html" className="btn-outline-dark button btn-lg">B L O G</a>
+                                <button className="btn btn-outline-dark button btn-lg">B L O G</button>
                             </div>
                         </div>
 
@@ -83,7 +83,7 @@ function MainTeaser() {
                                 <p className="card-text">I think what it means to be a good developer is you have to be a
                                     good problem solver...</p>
                                 <br />
-                                <a href="/HTML/Blog.html" className="btn-outline-dark btn-lg">B L O G</a>
+                                <button className="btn btn-outline-dark button btn-lg">B L O G</button>
                             </div>
                         </div>
                     </div>
