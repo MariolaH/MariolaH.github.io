@@ -48,3 +48,8 @@ function Navbar() {
 }
 
 export default Navbar;
+
+
+
+
+  /* bg="secondary mb-5" variant="white" */

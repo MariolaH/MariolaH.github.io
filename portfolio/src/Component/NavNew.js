@@ -3,35 +3,29 @@ import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import {
   BrowserRouter as Router,
-  Routes,
-  Route,
-  Link,
-  BrowserRouter,
-} from "react-router-dom";
-import App from "../App";
+  Link } from "react-router-dom";
 // import Blog from "./portfolio/src/Component/Blog.js";
 
 function NavNew() {
   return (
     <>
-      <Navbar bg="secondary mb-5" variant="white">
+      <Navbar className="nav mb-5">
         <Container>
-        
           <Nav className="me-auto">
-            <Nav.Link as={Link} to={"/"}>
-              H O M E
+            <Nav.Link as={Link } to={"/"}>
+             <b> H O M E </b> &#160; &#160; &#160;
             </Nav.Link>
             <Nav.Link as={Link} to={"/blog"}>
-              BLOG
+              B L O G &#160; &#160;
             </Nav.Link>
             <Nav.Link as={Link} to={"/bio"}>
-              BIO
+              B I O &#160; &#160;
             </Nav.Link>
             <Nav.Link as={Link} to={"/projects"}>
-              PROJECTS
+              P R O J E C T S &#160; &#160;
             </Nav.Link>
             <Nav.Link as={Link} to={"/contact"}>
-              CONTACT
+              C O N T A C T &#160; &#160;
             </Nav.Link>
           </Nav>
         </Container>

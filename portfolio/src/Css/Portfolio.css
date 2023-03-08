@@ -28,7 +28,13 @@ body {
     margin-left: 280px;
     margin-right: 280px;
     margin-bottom: 50px;
+    padding-left: 50px;
     /* border-radius: 10%; */
+}
+
+.bioParagraph{
+    padding-right: 20px;
+   /* line-height: 250%; */
 }
 
 .nav {
@@ -37,11 +43,14 @@ body {
     font-family: monospace;
     color: black; */
     /* list-style-type: none; */
-    background-color: rgb(232, 231, 230);
+    background-color: rgb(192,192,192);
     /* background-color: a5a5a5; */
+    justify-content: space-between;
+    font-family: monospace;
+    
 }
 
-a:link {
+.nav:link {
     text-decoration: none;
     color: black;
 }
@@ -53,20 +62,11 @@ a:link {
 }
 } */
 
-a:hover {
+/* .Nav.Link:hover {
     text-decoration: none;
-    color: rgb(219, 55, 14);
-}
-a:visited {
-    text-decoration: none;
-    color: black;
-}
+    background-color: rgb(219, 55, 14) !important;
+} */
 
-
-a:active {
-    text-decoration: none;
-    color: black;
-}
 
 h2 {
     font-family: monospace;

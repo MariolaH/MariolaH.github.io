@@ -25,7 +25,10 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript, React
                     </p>
-                    <a href="https://github.com/MariolaH/To-Do-List">
+                    <a
+                      href="https://github.com/MariolaH/To-Do-List"
+                      target="_blank"
+                    >
                       {" "}
                       <button className="btn">View Project</button>
                     </a>
@@ -47,7 +50,10 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, JavaScript
                     </p>
-                    <a href="https://github.com/MariolaH/tic-tac-toe">
+                    <a
+                      href="https://github.com/MariolaH/tic-tac-toe"
+                      target="_blank"
+                    >
                       <button className="btn">View Project</button>
                     </a>
                     <button className="btn">View Repo</button>
@@ -70,7 +76,10 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript
                     </p>
-                    <a href="https://github.com/MariolaH/Weather-App">
+                    <a
+                      href="https://github.com/MariolaH/Weather-App"
+                      target="_blank"
+                    >
                       {" "}
                       <button className="btn">View Project</button>
                     </a>
@@ -94,7 +103,10 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript
                     </p>
-                    <a href="https://github.com/MariolaH/mind-reader">
+                    <a
+                      href="https://github.com/MariolaH/mind-reader"
+                      target="_blank"
+                    >
                       {" "}
                       <button className="btn">View Project</button>
                     </a>
