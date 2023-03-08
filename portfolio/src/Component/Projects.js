@@ -25,7 +25,10 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript, React
                     </p>
-                   <a href="#"> <button className="btn">View Project</button></a>
+                    <a href="https://github.com/MariolaH/To-Do-List">
+                      {" "}
+                      <button className="btn">View Project</button>
+                    </a>
                     <button className="btn">View Repo</button>
                   </div>
                 </div>
@@ -44,7 +47,9 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, JavaScript
                     </p>
-                    <button className="btn">View Project</button>
+                    <a href="https://github.com/MariolaH/tic-tac-toe">
+                      <button className="btn">View Project</button>
+                    </a>
                     <button className="btn">View Repo</button>
                     <br />
                   </div>
@@ -65,7 +70,34 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript
                     </p>
-                    <button className="btn">View Project</button>
+                    <a href="https://github.com/MariolaH/Weather-App">
+                      {" "}
+                      <button className="btn">View Project</button>
+                    </a>
+                    <button className="btn">View Repo</button>
+                    <br />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="row d-flex justify-content-center align-items-center py-1">
+              <div className="col-sm-8 d-flex justify-content-center align-items-center py-1">
+                <div className="card">
+                  <img
+                    class="card-img-top"
+                    src="./Image/Mind Reader.png"
+                    alt="MIND READER"
+                  ></img>
+                  <div className="card-body">
+                    <h4 className="card-title">MIND READER</h4>
+                    <p className="card-text">
+                      Tech Stack: HTML, CSS, Bootstrap, JavaScript
+                    </p>
+                    <a href="https://github.com/MariolaH/mind-reader">
+                      {" "}
+                      <button className="btn">View Project</button>
+                    </a>
                     <button className="btn">View Repo</button>
                     <br />
                   </div>
@@ -86,7 +118,9 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, JavaScript
                     </p>
-                    <button className="btn">View Project</button>
+                    <a href="https://github.com/MariolaH/alarm-clock">
+                      <button className="btn">View Project</button>
+                    </a>
                     <button className="btn">View Repo</button>
                     <br />
                   </div>
