@@ -1,9 +1,9 @@
-import Navbar from "./Navbar";
+import NavNew from "./NavNew";
 
 function Contact() {
   return (
     <>
-      <Navbar />
+      <NavNew />
 
       <div className="frame frameContact">
         <section>

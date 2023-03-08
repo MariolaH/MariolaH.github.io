@@ -1,9 +1,9 @@
-import Navbar from "./Navbar";
+import NavNew from "./NavNew";
 
 function Blog() {
   return (
 <>
-  <Navbar />
+  <NavNew />
  <div className="frame">
         <br />
         <h1><b>B L O G &ensp; B Y &ensp; M A R I O L A</b></h1>

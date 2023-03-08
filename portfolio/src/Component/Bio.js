@@ -1,9 +1,10 @@
-import Navbar from "./Navbar";
+import NavNew from "./NavNew";
+
 
 function Bio() {
   return (
     <>
-      <Navbar />
+      <NavNew />
       <div className="frame">
         <section>
           <div className="container">

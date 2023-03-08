@@ -1,9 +1,10 @@
 import React from "react";
+import NavNew from "./NavNew";
 
 function Projects() {
   return (
     <>
-      <Navbar />
+      <NavNew />
       <div className="frame">
         <br />
         <h1>
@@ -24,13 +25,12 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript, React
                     </p>
-                    <button className="btn">View Project</button>
+                   <a href="#"> <button className="btn">View Project</button></a>
                     <button className="btn">View Repo</button>
                   </div>
                 </div>
               </div>
             </div>
-
             <div className="row d-flex justify-content-center align-items-center py-1">
               <div className="col-sm-8 d-flex justify-content-center align-items-center py-1">
                 <div className="card">

@@ -7,6 +7,7 @@ import MainTeaser from './Component/MainTeaser';
 import NavNew from './Component/NavNew';
 import "bootstrap/dist/css/bootstrap.min.css";
 
+
 function App() {
   return (
     <>
