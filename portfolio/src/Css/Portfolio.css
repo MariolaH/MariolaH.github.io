@@ -46,12 +46,12 @@ a:link {
     color: black;
 }
 
-.btn {
+/* .btn {
     .btn:focus {
     outline: none !important;
     outline-offset: none !important;
 }
-}
+} */
 
 a:hover {
     text-decoration: none;
