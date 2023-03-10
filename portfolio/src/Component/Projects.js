@@ -26,6 +26,7 @@ function Projects() {
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript, React
                     </p>
                     <a
+                      rel="noreferrer"
                       href="https://github.com/MariolaH/To-Do-List"
                       target="_blank"
                     >
@@ -37,6 +38,34 @@ function Projects() {
                 </div>
               </div>
             </div>
+
+            <div className="row d-flex justify-content-center align-items-center py-1">
+              <div className="col-sm-8 d-flex justify-content-center align-items-center py-1">
+                <div className="card">
+                  <img
+                    class="card-img-top"
+                    src="./Image/React-Restaurnat.png"
+                    alt="ALARM CLOCK"
+                  ></img>
+                  <div className="card-body">
+                    <h4 className="card-title">RESTAURANT WEBSITE</h4>
+                    <p className="card-text">
+                      Tech Stack: HTML, CSS, Bootstrap, JavaScript, React
+                    </p>
+                    <a
+                      rel="noreferrer"
+                      href="https://github.com/MariolaH/MariolaH.github.io/tree/main/portfolio"
+                      target="_blank"
+                    >
+                      <button className="btn">View Project</button>
+                    </a>
+                    <button className="btn">View Repo</button>
+                    <br />
+                  </div>
+                </div>
+              </div>
+            </div>
+
             <div className="row d-flex justify-content-center align-items-center py-1">
               <div className="col-sm-8 d-flex justify-content-center align-items-center py-1">
                 <div className="card">
@@ -51,6 +80,7 @@ function Projects() {
                       Tech Stack: HTML, CSS, JavaScript
                     </p>
                     <a
+                      rel="noreferrer"
                       href="https://github.com/MariolaH/tic-tac-toe"
                       target="_blank"
                     >
@@ -77,6 +107,7 @@ function Projects() {
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript
                     </p>
                     <a
+                      rel="noreferrer"
                       href="https://github.com/MariolaH/Weather-App"
                       target="_blank"
                     >
@@ -104,6 +135,7 @@ function Projects() {
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript
                     </p>
                     <a
+                      rel="noreferrer"
                       href="https://github.com/MariolaH/mind-reader"
                       target="_blank"
                     >
@@ -130,7 +162,11 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, JavaScript
                     </p>
-                    <a href="https://github.com/MariolaH/alarm-clock">
+                    <a
+                      rel="noreferrer"
+                      href="https://github.com/MariolaH/alarm-clock"
+                      target="_blank"
+                    >
                       <button className="btn">View Project</button>
                     </a>
                     <button className="btn">View Repo</button>
