@@ -25,15 +25,15 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript, React
                     </p>
+                    <button className="btn">View Project</button>
                     <a
                       rel="noreferrer"
                       href="https://github.com/MariolaH/To-Do-List"
                       target="_blank"
                     >
                       {" "}
-                      <button className="btn">View Project</button>
-                    </a>
                     <button className="btn">View Repo</button>
+                    </a>
                   </div>
                 </div>
               </div>
@@ -52,14 +52,14 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript, React
                     </p>
+                    <button className="btn">View Project</button>
                     <a
                       rel="noreferrer"
                       href="https://github.com/MariolaH/MariolaH.github.io/tree/main/portfolio"
                       target="_blank"
                     >
-                      <button className="btn">View Project</button>
-                    </a>
                     <button className="btn">View Repo</button>
+                    </a>
                     <br />
                   </div>
                 </div>
@@ -79,14 +79,14 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, JavaScript
                     </p>
+                    <button className="btn">View Project</button>
                     <a
                       rel="noreferrer"
                       href="https://github.com/MariolaH/tic-tac-toe"
                       target="_blank"
                     >
-                      <button className="btn">View Project</button>
-                    </a>
                     <button className="btn">View Repo</button>
+                    </a>
                     <br />
                   </div>
                 </div>
@@ -106,15 +106,15 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript
                     </p>
+                    <button className="btn">View Project</button>
                     <a
                       rel="noreferrer"
                       href="https://github.com/MariolaH/Weather-App"
                       target="_blank"
                     >
                       {" "}
-                      <button className="btn">View Project</button>
-                    </a>
                     <button className="btn">View Repo</button>
+                    </a>
                     <br />
                   </div>
                 </div>
@@ -134,15 +134,15 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript
                     </p>
+                    <button className="btn">View Project</button>
                     <a
                       rel="noreferrer"
                       href="https://github.com/MariolaH/mind-reader"
                       target="_blank"
                     >
                       {" "}
-                      <button className="btn">View Project</button>
-                    </a>
                     <button className="btn">View Repo</button>
+                    </a>
                     <br />
                   </div>
                 </div>
@@ -162,14 +162,14 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, JavaScript
                     </p>
+                    <button className="btn">View Project</button>
                     <a
                       rel="noreferrer"
                       href="https://github.com/MariolaH/alarm-clock"
                       target="_blank"
                     >
-                      <button className="btn">View Project</button>
-                    </a>
                     <button className="btn">View Repo</button>
+                    </a>
                     <br />
                   </div>
                 </div>
