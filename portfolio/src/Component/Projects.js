@@ -32,7 +32,7 @@ function Projects() {
                       target="_blank"
                     >
                       {" "}
-                    <button className="btn">View Repo</button>
+                      <button className="btn">View Repo</button>
                     </a>
                   </div>
                 </div>
@@ -58,7 +58,7 @@ function Projects() {
                       href="https://github.com/MariolaH/MariolaH.github.io/tree/main/portfolio"
                       target="_blank"
                     >
-                    <button className="btn">View Repo</button>
+                      <button className="btn">View Repo</button>
                     </a>
                     <br />
                   </div>
@@ -85,7 +85,7 @@ function Projects() {
                       href="https://github.com/MariolaH/tic-tac-toe"
                       target="_blank"
                     >
-                    <button className="btn">View Repo</button>
+                      <button className="btn">View Repo</button>
                     </a>
                     <br />
                   </div>
@@ -113,7 +113,7 @@ function Projects() {
                       target="_blank"
                     >
                       {" "}
-                    <button className="btn">View Repo</button>
+                      <button className="btn">View Repo</button>
                     </a>
                     <br />
                   </div>
@@ -141,7 +141,7 @@ function Projects() {
                       target="_blank"
                     >
                       {" "}
-                    <button className="btn">View Repo</button>
+                      <button className="btn">View Repo</button>
                     </a>
                     <br />
                   </div>
@@ -168,7 +168,33 @@ function Projects() {
                       href="https://github.com/MariolaH/alarm-clock"
                       target="_blank"
                     >
-                    <button className="btn">View Repo</button>
+                      <button className="btn">View Repo</button>
+                    </a>
+                    <br />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="row d-flex justify-content-center align-items-center py-1">
+              <div className="col-sm-8 d-flex justify-content-center align-items-center py-1">
+                <div className="card">
+                  <img
+                    class="card-img-top"
+                    src="./Image/technical.png"
+                    alt="technical article"
+                  ></img>
+                  <div className="card-body">
+                    <h4 className="card-title">TECHNICAL ARTICLE</h4>
+                    <p className="card-text">
+                      Tech Stack: HTML, CSS, BOOTSTRAP, REACT
+                    </p>
+                    <button className="btn">View Project</button>
+                    <a
+                      rel="noreferrer"
+                      // href="https://github.com/MariolaH/alarm-clock"
+                      target="_blank"
+                    >
+                      <button className="btn">View Repo</button>
                     </a>
                     <br />
                   </div>
