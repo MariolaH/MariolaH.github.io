@@ -191,7 +191,7 @@ function Projects() {
                     <button className="btn">View Project</button>
                     <a
                       rel="noreferrer"
-                      // href="https://github.com/MariolaH/alarm-clock"
+                      href="https://github.com/MariolaH/MariolaH.github.io/blob/main/portfolio/src/Component/Technical.js"
                       target="_blank"
                     >
                       <button className="btn">View Repo</button>
