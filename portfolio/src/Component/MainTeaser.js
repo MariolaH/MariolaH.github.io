@@ -24,7 +24,7 @@ function MainTeaser() {
                         been provided through...
                       </p>
                       <br />
-                      <a href="https://3000-mariolah-mariolahgithub-zaasywq1geb.ws-us90.gitpod.io/blog">
+                      <a href="https://3000-mariolah-mariolahgithub-zaasywq1geb.ws-us92.gitpod.io/blog">
                         <button className="btn btn-outline-dark button btn-lg">
                           B L O G
                         </button>
@@ -58,10 +58,10 @@ function MainTeaser() {
                         this blog is that I love to travel. I met my husband...
                       </p>
                       <br />
-                      <a href="https://3000-mariolah-mariolahgithub-zaasywq1geb.ws-us90.gitpod.io/blog">
-                      <button className="btn btn-outline-dark button btn-lg">
-                        B L O G
-                      </button>
+                      <a href="https://3000-mariolah-mariolahgithub-zaasywq1geb.ws-us92.gitpod.io/blog">
+                        <button className="btn btn-outline-dark button btn-lg">
+                          B L O G
+                        </button>
                       </a>
                     </div>
                   </div>
@@ -90,10 +90,10 @@ function MainTeaser() {
                         to be a good problem solver...
                       </p>
                       <br />
-                      <a href="https://3000-mariolah-mariolahgithub-zaasywq1geb.ws-us90.gitpod.io/blog">
-                      <button className="btn btn-outline-dark button btn-lg">
-                        B L O G
-                      </button>
+                      <a href="https://3000-mariolah-mariolahgithub-zaasywq1geb.ws-us92.gitpod.io/blog">
+                        <button className="btn btn-outline-dark button btn-lg">
+                          B L O G
+                        </button>
                       </a>
                     </div>
                   </div>

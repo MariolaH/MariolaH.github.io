@@ -8,7 +8,7 @@ function HeaderMain() {
             <div className="col-sm-6 d-flex justify-content-center intro ign-items-center py-5">
               <h2>
                 <br />
-                <b>
+                
                   M y <br />
                   <br /> J o u r n e y <br />
                   <br /> t o <br />
@@ -16,7 +16,7 @@ function HeaderMain() {
                   <br />
                   S o f t w a r e <br />
                   <br /> D e v e l o p e r{" "}
-                </b>{" "}
+                {" "}
               </h2>
               <br />
             </div>
