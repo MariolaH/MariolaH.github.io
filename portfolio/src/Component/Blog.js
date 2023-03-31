@@ -6,9 +6,13 @@ function Blog() {
       <NavNew />
       <div className="frame">
         <br />
-        <h1 className="title">
-          <b>B L O G &ensp; B Y &ensp; M A R I O L A</b>
-        </h1>
+        <div className="row d-flex justify-content-center align-items-center py-3">
+          <div className="col-md-8 d-flex justify-content-center align-items-center py-3">
+            <h1 className="title">
+              <b>B L O G </b>
+            </h1>
+          </div>
+        </div>
         <section>
           <div className="containerBlog">
             <div className="row d-flex justify-content-center align-items-center py-3">
