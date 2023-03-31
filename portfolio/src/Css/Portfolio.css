@@ -1,59 +1,75 @@
 .homePagePic {
-    width: 350px;
-    height: auto;
-    padding-right: 22px;
+  width: 450px;
+  height: auto;
 }
 
-/* .homePagePic1 {
+.homePagePic1 {
 
     width: 250px;
     height: auto;
-} */
-
-
-body {
-    margin: 20 px;
-    padding: 30 px;
-    /* background-color: rgb(222, 201, 173); */
-    /* background-image: linear-gradient(to bottom right, rgb(222, 201, 173), rgb(237, 236, 230), rgb(225, 145, 34)); */
-    /* min-height: 100vh; */
-}
-
-
-.frame {
-    /* border: 2px solid rgb(13, 12, 12);
-    box-shadow: 0 0 0 6px rgb(55, 53, 51); */
-    /* background-image: linear-gradient(to bottom right, rgb(222, 201, 173), rgb(237, 236, 230), rgb(240, 175, 84)); */
-    background-image: linear-gradient(to bottom right, rgb(11, 11, 11), rgb(237, 236, 230), rgb(106, 104, 100));
-    /* padding: 20px; */
-    margin-left: 280px;
-    margin-right: 280px;
-    margin-bottom: 50px;
-    padding-left: 50px;
-    /* border-radius: 10%; */
-}
-
-.bioParagraph{
-    padding-right: 20px;
-   /* line-height: 250%; */
-}
-
-.nav {
-    /* font-size: 10px;
-    padding-bottom: 5px;
-    font-family: monospace;
-    color: black; */
-    /* list-style-type: none; */
-    background-color: rgb(192,192,192);
-    /* background-color: a5a5a5; */
-    justify-content: space-between;
-    font-family: monospace;
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
     
 }
 
+body {
+  margin: 20 px;
+  padding: 30 px;
+  /* background-color: rgb(222, 201, 173); */
+  /* background-image: linear-gradient(to bottom right, rgb(222, 201, 173), rgb(237, 236, 230), rgb(225, 145, 34)); */
+  /* min-height: 100vh; */
+}
+
+.frame {
+  /* border: 2px solid rgb(13, 12, 12);
+    box-shadow: 0 0 0 6px rgb(55, 53, 51); */
+  /* background-image: linear-gradient(to bottom right, rgb(222, 201, 173), rgb(237, 236, 230), rgb(240, 175, 84)); */
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(40, 40, 40),
+    /* rgb(11, 11, 11), */
+    rgb(237, 236, 230),
+    rgb(106, 104, 100)
+  );
+
+  /* margin-left: 280px;
+  margin-right: 280px;
+  margin-bottom: 50px;
+  padding-left: 50px; */
+
+}
+
+.bioParagraph {
+  padding-right: 20px;
+  padding-left: 30px;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  /* line-height: 250%; */
+}
+
+.nav {
+  /* font-size: 10px;
+    padding-bottom: 5px;
+    font-family: monospace;
+    color: black; */
+  /* list-style-type: none; */
+  /* background-color: rgb(192, 192, 192); */
+   background-color: rgb(237, 236, 230);
+  /* background-color: a5a5a5; */
+  justify-content: space-between;
+  font-family: monospace;
+  font-weight: bolder;
+
+}
+
+
 .nav:link {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 /* .btn {
@@ -63,63 +79,60 @@ body {
 }
 } */
 
-/* .Nav.Link:hover {
-    text-decoration: none;
-    background-color: rgb(219, 55, 14) !important;
-} */
-
 
 h2 {
-    font-family: monospace;
-    font-size: 27px;
+  font-family: monospace;
+  font-size: 27px;
+}
+
+h3 {
+  font-family: monospace;
+  font-size: 27px;
 }
 
 .CardHeader {
-    font-size: 30px;
-    font-family: monospace;
-    color: rgb(106, 104, 100);
+  font-size: 30px;
+  font-family: monospace;
+  color: rgb(106, 104, 100);
 }
 
 /* contact */
 
 .btnSVG {
-    padding: 20px;
-
+  padding: 20px;
 }
 
 .btnSVG2 {
-    height: 50px;
-    padding-right: 75px;
-    padding-left: 75px;
+  height: 50px;
+  padding-right: 75px;
+  padding-left: 75px;
 }
 
 .frameContact {
-    margin-top: 120px;
-
+  margin-top: 120px;
 }
 
 /* blog */
 
 .card {
-    /* padding-left: 20px;
+  /* padding-left: 20px;
     padding-right: 20px; */
-    margin: 50px;
+  margin: 50px;
 }
 
 .card {
-    /* border-radius: 40%; */
-    text-align: center;
-    padding-bottom: 10px;
-    border: 2px solid rgb(13, 12, 12);
-    box-shadow: 0 0 0 12px rgb(242, 240, 242);
-
+  /* border-radius: 40%; */
+  text-align: center;
+  padding-bottom: 10px;
+  border: 2px solid rgb(13, 12, 12);
+  box-shadow: 0 0 0 12px rgb(242, 240, 242);
 }
 
 h1 {
-    text-align: center;
-    font-family: monospace;
-    padding-top: 40px;
-    padding-bottom: 20px;
+  text-align: center;
+  font-family: monospace;
+  padding-top: 40px;
+  padding-bottom: 20px;
 }
 
 /* .containerBlog{
@@ -129,12 +142,19 @@ h1 {
 
 } */
 
-
 /* BIO */
 
 .bioParagraph {
-    font-size: 20px;
-    font-family: monospace;
+  font-size: 20px;
+  font-family: monospace;
 }
 
 /* blog */
+
+.frameBottom {
+
+  padding-left: 25px;
+  padding-right: 25px;
+
+
+}

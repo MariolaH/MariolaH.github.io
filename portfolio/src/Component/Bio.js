@@ -9,8 +9,15 @@ function Bio() {
         <section>
           <div className="container">
             <div className="row py-5">
-              <div className="col-sm-6 py-5">
-                <br />
+              <div className="col-sm-4 justify-content-center align-items-center py-5">
+                <img
+                  src="./Image/Profile p.jpg"
+                  className="homePagePic1"
+                  alt="Image of Mariola Hullings"
+                />
+              </div>
+              <div className="col-sm-8 py-5">
+            
 
                 <p className="bioParagraph">
                   Hi everyone! My name is Mariola, I live in Lexington with my
@@ -28,13 +35,13 @@ function Bio() {
                 </p>
               </div>
 
-              <div className="col-sm-6 justify-content-right align-items-right py-5">
+              {/* <div className="col-sm-4 justify-content-center align-items-center py-5">
                 <img
                   src="./Image/Profile p.jpg"
-                  className="homePagePic"
+                  className="homePagePic1"
                   alt="Image of Mariola Hullings"
                 />
-              </div>
+              </div> */}
             </div>
           </div>
         </section>

@@ -13,7 +13,7 @@ function Projects() {
         <section>
           <div className="containerBlog">
             <div className="row d-flex justify-content-center align-items-center py-3">
-              <div className="col-sm-8 d-flex justify-content-center align-items-center py-3">
+              <div className="col-sm-6 d-flex justify-content-center align-items-center py-3">
                 <div className="card">
                   <img
                     class="card-img-top"
@@ -40,7 +40,7 @@ function Projects() {
             </div>
 
             <div className="row d-flex justify-content-center align-items-center py-1">
-              <div className="col-sm-8 d-flex justify-content-center align-items-center py-1">
+              <div className="col-sm-6 d-flex justify-content-center align-items-center py-1">
                 <div className="card">
                   <img
                     class="card-img-top"
@@ -67,7 +67,7 @@ function Projects() {
             </div>
 
             <div className="row d-flex justify-content-center align-items-center py-1">
-              <div className="col-sm-8 d-flex justify-content-center align-items-center py-1">
+              <div className="col-sm-6 d-flex justify-content-center align-items-center py-1">
                 <div className="card">
                   <img
                     class="card-img-top"
@@ -94,7 +94,7 @@ function Projects() {
             </div>
 
             <div className="row d-flex justify-content-center align-items-center py-1">
-              <div className="col-sm-8 d-flex justify-content-center align-items-center py-1">
+              <div className="col-sm-6 d-flex justify-content-center align-items-center py-1">
                 <div className="card">
                   <img
                     class="card-img-top"
@@ -122,7 +122,7 @@ function Projects() {
             </div>
 
             <div className="row d-flex justify-content-center align-items-center py-1">
-              <div className="col-sm-8 d-flex justify-content-center align-items-center py-1">
+              <div className="col-sm-6 d-flex justify-content-center align-items-center py-1">
                 <div className="card">
                   <img
                     class="card-img-top"
@@ -150,7 +150,7 @@ function Projects() {
             </div>
 
             <div className="row d-flex justify-content-center align-items-center py-1">
-              <div className="col-sm-8 d-flex justify-content-center align-items-center py-1">
+              <div className="col-sm-6 d-flex justify-content-center align-items-center py-1">
                 <div className="card">
                   <img
                     class="card-img-top"
@@ -176,7 +176,7 @@ function Projects() {
               </div>
             </div>
             <div className="row d-flex justify-content-center align-items-center py-1">
-              <div className="col-sm-8 d-flex justify-content-center align-items-center py-1">
+              <div className="col-sm-6 d-flex justify-content-center align-items-center py-1">
                 <div className="card">
                   <img
                     class="card-img-top"
