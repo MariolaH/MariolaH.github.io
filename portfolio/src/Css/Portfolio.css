@@ -58,11 +58,13 @@
     color: black; */
   /* list-style-type: none; */
   /* background-color: rgb(192, 192, 192); */
-   background-color: rgb(237, 236, 230);
-  /* background-color: a5a5a5; */
+   /* background-color: rgb(237, 230, 230); */
+   /* background-color: rgba(192, 191, 190, 0.323); */
+  background-color: white;
   justify-content: space-between;
   font-family: monospace;
   font-weight: bolder;
+  font-size: 20px;
 
 }
 
@@ -108,9 +110,9 @@ h3 {
   padding-left: 75px;
 }
 
-.frameContact {
+/* .frameContact {
   margin-top: 120px;
-}
+} */
 
 /* blog */
 

@@ -3,10 +3,11 @@ function HeaderMain() {
     <div className="frame">
       <section>
         <div className="container">
-          <div className="row d-flex justify-content-right py-5">
+          <div className="row d-flex justify-content-right ">
             <br />
             <div className="col-sm-6 d-flex justify-content-center intro ign-items-center py-5">
               <h3>
+                <br />
                 <br />
                 M y <br />
                 <br /> J o u r n e y <br />

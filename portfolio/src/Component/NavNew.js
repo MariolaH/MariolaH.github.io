@@ -9,7 +9,7 @@ function NavNew() {
   return (
     <>
       <nav>
-        <Navbar className="nav mb-5" expand="md">
+        <Navbar className="nav" expand="md">
           <Container>
             <Nav className="me-auto">
               <Nav.Link as={Link} to={"/"}>
