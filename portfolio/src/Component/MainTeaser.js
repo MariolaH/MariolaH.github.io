@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { ScrollRestoration } from "react-router-dom";
 
 
 
@@ -29,13 +30,13 @@ function MainTeaser() {
                           <a href="https://3000-mariolah-mariolahgithub-zaasywq1geb.ws-us92.gitpod.io/blog">
                             <Link
                               to="/Blog"
-                              onClick={() => {
-                                window.scroll({
-                                  top: 0,
-                                  left: 0,
-                                  behavior: "smooth",
-                                });
-                              }}
+                              // onClick={() => {
+                              //   window.scroll({
+                              //     top: 0,
+                              //     left: 0,
+                              //     behavior: "smooth",
+                              //   });
+                              // }}
                               className="btn btn-outline-dark button btn-lg"
                             >
                               B L O G
@@ -74,13 +75,13 @@ function MainTeaser() {
                           <a href="https://3000-mariolah-mariolahgithub-zaasywq1geb.ws-us92.gitpod.io/blog">
                             <Link
                               to="/Blog"
-                              onClick={() => {
-                                window.scroll({
-                                  top: 0,
-                                  left: 0,
-                                  behavior: "smooth",
-                                });
-                              }}
+                              // onClick={() => {
+                              //   window.scroll({
+                              //     top: 0,
+                              //     left: 0,
+                              //     behavior: "smooth",
+                              //   });
+                              // }}
                               className="btn btn-outline-dark button btn-lg"
                             >
                               B L O G
@@ -116,16 +117,17 @@ function MainTeaser() {
                           <a href="https://3000-mariolah-mariolahgithub-zaasywq1geb.ws-us92.gitpod.io/blog">
                             <Link
                               to="/Blog"
-                              onClick={() => {
-                                window.scroll({
-                                  top: 0,
-                                  left: 0,
-                                  behavior: "smooth",
-                                });
-                              }}
+                              // onClick={() => {
+                              //   window.scroll({
+                              //     top: 0,
+                              //     left: 0,
+                              //     behavior: "smooth",
+                              //   });
+                              // }}
                               className="btn btn-outline-dark button btn-lg"
                             >
                               B L O G
+                <ScrollRestoration />
                             </Link>
                           </a>
                         </div>

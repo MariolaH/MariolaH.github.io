@@ -1,9 +1,11 @@
+import { ScrollRestoration } from "react-router-dom";
 import NavNew from "./NavNew";
 
 function Blog() {
   return (
     <>
       <NavNew />
+      <ScrollRestoration/>
       <div className="frame">
         <br />
         <div className="row d-flex justify-content-center align-items-center py-3">
