@@ -1,8 +1,11 @@
+import { Link } from "react-router-dom";
+
 
 
 function MainTeaser() {
-    return (
-      <>
+        return (
+          <>
+
         <div className="frameBottom">
           <section>
             <div className="containerBottom text-center">
@@ -25,9 +28,13 @@ function MainTeaser() {
                       </p>
                       <br />
                       <a href="https://3000-mariolah-mariolahgithub-zaasywq1geb.ws-us92.gitpod.io/blog">
-                        <button className="btn btn-outline-dark button btn-lg">
+                        <Link
+                          to="/Blog"
+                          className="btn btn-outline-dark button btn-lg"
+                        >
                           B L O G
-                        </button>
+                        </Link>
+                        
                       </a>
                     </div>
                   </div>
@@ -59,9 +66,13 @@ function MainTeaser() {
                       </p>
                       <br />
                       <a href="https://3000-mariolah-mariolahgithub-zaasywq1geb.ws-us92.gitpod.io/blog">
-                        <button className="btn btn-outline-dark button btn-lg">
+                        <Link
+                          to="/Blog"
+                          className="btn btn-outline-dark button btn-lg"
+                        >
                           B L O G
-                        </button>
+                        </Link>
+                      
                       </a>
                     </div>
                   </div>
@@ -91,9 +102,13 @@ function MainTeaser() {
                       </p>
                       <br />
                       <a href="https://3000-mariolah-mariolahgithub-zaasywq1geb.ws-us92.gitpod.io/blog">
-                        <button className="btn btn-outline-dark button btn-lg">
+                        <Link
+                          to="/Blog"
+                          className="btn btn-outline-dark button btn-lg"
+                        >
                           B L O G
-                        </button>
+                        </Link>
+                      
                       </a>
                     </div>
                   </div>
