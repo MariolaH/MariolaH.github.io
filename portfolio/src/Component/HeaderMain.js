@@ -21,7 +21,7 @@ function HeaderMain() {
             </div>
             <div className="col-md-4 d-flex justify-content-center align-items-content-center py-5">
               <img
-                src="./Image/image on rock.jpg"
+                src="./Image on rock.jpg"
                 className="homePagePic"
                 alt="Mariola Hullings"
               />
