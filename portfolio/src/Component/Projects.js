@@ -54,7 +54,7 @@ function Projects() {
                     </p>
                     <a
                       rel="noreferrer"
-                      href="https://mariolah.github.io/React-Restaurant"
+                      href="https://react-restaurant-bistro.vercel.app/"
                       target="_blank"
                     >
                       <button className="btn">View Project</button>
