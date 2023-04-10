@@ -52,7 +52,13 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript, React
                     </p>
-                    <button className="btn">View Project</button>
+                    <a
+                      rel="noreferrer"
+                      href="https://mariolah.github.io/React-Restaurant"
+                      target="_blank"
+                    >
+                      <button className="btn">View Project</button>
+                    </a>
                     <a
                       rel="noreferrer"
                       href="https://github.com/MariolaH/MariolaH.github.io/tree/main/portfolio"
@@ -79,7 +85,14 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, JavaScript
                     </p>
-                    <button className="btn">View Project</button>
+                    <a
+                      rel="noreferrer"
+                      href="https://mariolah.github.io/tic-tac-toe/"
+                      target="_blank"
+                    >
+                      <button className="btn">View Project</button>
+                    </a>
+
                     <a
                       rel="noreferrer"
                       href="https://github.com/MariolaH/tic-tac-toe"
@@ -140,7 +153,15 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript
                     </p>
-                    <button className="btn">View Project</button>
+
+                    <a
+                      rel="noreferrer"
+                      href="https://mariolah.github.io/mind-reader/"
+                      target="_blank"
+                    >
+                      <button className="btn">View Project</button>
+                    </a>
+
                     <a
                       rel="noreferrer"
                       href="https://github.com/MariolaH/mind-reader"
@@ -168,7 +189,14 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, JavaScript
                     </p>
-                    <button className="btn">View Project</button>
+                    <a
+                      rel="noreferrer"
+                      href="https://mariolah.github.io/alarm-clock/"
+                      target="_blank"
+                    >
+                      <button className="btn">View Project</button>
+                    </a>
+
                     <a
                       rel="noreferrer"
                       href="https://github.com/MariolaH/alarm-clock"
@@ -194,7 +222,13 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, BOOTSTRAP, REACT
                     </p>
-                    <button className="btn">View Project</button>
+                    <a
+                      rel="noreferrer"
+                      href="https://mariolah.github.io/mind-reader/"
+                      target="_blank"
+                    >
+                      <button className="btn">View Project</button>
+                    </a>
                     <a
                       rel="noreferrer"
                       href="https://github.com/MariolaH/React-technical-article"
