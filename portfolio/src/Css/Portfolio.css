@@ -1,0 +1,162 @@
+.homePagePic {
+  width: 450px;
+  height: auto;
+}
+
+.homePagePic1 {
+
+    width: 250px;
+    height: auto;
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    
+}
+
+.body {
+  margin: 20 px;
+  padding: 30 px;
+  /* background-color: rgb(222, 201, 173); */
+  /* background-image: linear-gradient(to bottom right, rgb(222, 201, 173), rgb(237, 236, 230), rgb(225, 145, 34)); */
+  /* min-height: 100vh; */
+}
+
+.frame {
+  /* border: 2px solid rgb(13, 12, 12);
+    box-shadow: 0 0 0 6px rgb(55, 53, 51); */
+  /* background-image: linear-gradient(to bottom right, rgb(222, 201, 173), rgb(237, 236, 230), rgb(240, 175, 84)); */
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(40, 40, 40),
+    /* rgb(11, 11, 11), */
+    rgb(237, 236, 230),
+    rgb(106, 104, 100)
+  );
+
+  /* margin-left: 280px;
+  margin-right: 280px;
+  margin-bottom: 50px;
+  padding-left: 50px; */
+
+}
+
+.bioParagraph {
+  padding-right: 20px;
+  padding-left: 30px;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  /* line-height: 250%; */
+}
+
+.nav {
+  /* font-size: 10px;
+    padding-bottom: 5px;
+    font-family: monospace;
+    color: black; */
+  /* list-style-type: none; */
+  /* background-color: rgb(192, 192, 192); */
+   /* background-color: rgb(237, 230, 230); */
+   /* background-color: rgba(192, 191, 190, 0.323); */
+  background-color: white;
+  justify-content: space-between;
+  font-family: monospace;
+  font-weight: bolder;
+  font-size: 20px;
+
+}
+
+
+.nav:link {
+  text-decoration: none;
+  color: black;
+}
+
+/* .btn {
+    .btn:focus {
+    outline: none !important;
+    outline-offset: none !important;
+}
+} */
+
+
+h2 {
+  font-family: monospace;
+  font-size: 27px;
+}
+
+h3 {
+  font-family: monospace;
+  font-size: 27px;
+}
+
+.CardHeader {
+  font-size: 30px;
+  font-family: monospace;
+  color: rgb(106, 104, 100);
+}
+
+/* contact */
+
+.btnSVG {
+  padding: 20px;
+}
+
+.btnSVG2 {
+  height: 50px;
+  padding-right: 75px;
+  padding-left: 75px;
+}
+
+/* .frameContact {
+  margin-top: 120px;
+} */
+
+/* blog */
+
+.card {
+  /* padding-left: 20px;
+    padding-right: 20px; */
+  margin: 50px;
+}
+
+.card {
+  /* border-radius: 40%; */
+  text-align: center;
+  padding-bottom: 10px;
+  border: 2px solid rgb(13, 12, 12);
+  box-shadow: 0 0 0 12px rgb(242, 240, 242);
+}
+
+h1 {
+  text-align: center;
+  font-family: monospace;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+/* .containerBlog{
+    background-image: url("/Css/blog post IMAGES/beige 3.jpeg");;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+} */
+
+/* BIO */
+
+.bioParagraph {
+  font-size: 20px;
+  font-family: monospace;
+}
+
+/* blog */
+
+.frameBottom {
+
+  padding-left: 25px;
+  padding-right: 25px;
+
+
+}
