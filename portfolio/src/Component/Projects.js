@@ -230,7 +230,7 @@ function Projects() {
                     </p>
                     <a
                       rel="noreferrer"
-                      href="https://react-restaurant-bistro.vercel.app"
+                      href="https://react-technical-article.vercel.app/"
                       target="_blank"
                     >
                       <button className="btn">View Project</button>
