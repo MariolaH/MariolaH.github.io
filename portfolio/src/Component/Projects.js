@@ -25,7 +25,13 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript, React
                     </p>
-                    <button className="btn">View Project</button>
+                    <a
+                      rel="noreferrer"
+                      href="https://to-do-list-mariolah.vercel.app"
+                      target="_blank"
+                    >
+                      <button className="btn">View Project</button>
+                    </a>
                     <a
                       rel="noreferrer"
                       href="https://github.com/MariolaH/To-Do-List"
@@ -54,7 +60,7 @@ function Projects() {
                     </p>
                     <a
                       rel="noreferrer"
-                      href="https://mariolah.github.io/React-Restaurant"
+                      href="https://react-restaurant-bistro.vercel.app"
                       target="_blank"
                     >
                       <button className="btn">View Project</button>
@@ -87,7 +93,7 @@ function Projects() {
                     </p>
                     <a
                       rel="noreferrer"
-                      href="https://mariolah.github.io/tic-tac-toe/"
+                      href="https://tic-tac-toe-mh.vercel.app"
                       target="_blank"
                     >
                       <button className="btn">View Project</button>
@@ -224,7 +230,7 @@ function Projects() {
                     </p>
                     <a
                       rel="noreferrer"
-                      href="https://mariolah.github.io/mind-reader/"
+                      href="https://react-restaurant-bistro.vercel.app"
                       target="_blank"
                     >
                       <button className="btn">View Project</button>
