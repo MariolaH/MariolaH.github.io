@@ -106,7 +106,13 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript
                     </p>
-                    <button className="btn">View Project</button>
+                    <a
+                      rel="noreferrer"
+                      href="https://mariolah.github.io/Weather-App/"
+                      target="_blank"
+                    >
+                      <button className="btn">View Project</button>
+                    </a>
                     <a
                       rel="noreferrer"
                       href="https://github.com/MariolaH/Weather-App"
