@@ -17,21 +17,26 @@ function Bio() {
                 />
               </div>
               <div className="col-sm-8 py-5">
-            
-
                 <p className="bioParagraph">
-                  Hi everyone! My name is Mariola, I live in Lexington with my
-                  husband Richie. Originally, I am from Poland, I grew up in
-                  Canada and have been living in Lexington for almost 7 years.
-                  Some of my hobbies include going to the gym, hiking and
-                  traveling. Currently, I work in the hospitality industry,
-                  prior to that I worked as a real estate agent for a few years.
-                  I was introduced to this bootcamp through a friend that took
-                  it last year, he really liked it and spoke very highly of it
-                  so I decided to look into it for myself. Prior to pursing the
-                  bootcamp I took the Intro to Web Development bootcamp and
-                  really enjoyed it and decided to pursue the Web Developer
-                  bootcamp.
+                  Hello everyone, my name is Mariola, and I am a resident of
+                  Lexington, alongside my husband Richie. My upbringing is
+                  rooted in Canada, although I am originally from Poland.
+                  Presently, I have been residing in the Lexington vicinity for
+                  approximately seven years. 
+                  
+                  Regarding my leisure activities, I enjoy engaging in physical fitness endeavors, such as
+                  attending the gym and hiking. Moreover, I relish exploring new
+                  destinations through traveling. Professionally, I am currently
+                  employed within the hospitality industry, having previously
+                  worked as a real estate agent for a few years. 
+                  
+                  I was introduced to this esteemed bootcamp via a friend who had
+                  completed the program last year. Based on his high praise of
+                  the program, I conducted further research and decided to
+                  pursue it myself. Prior to enrolling in this bootcamp, I
+                  completed the Intro to Web Development bootcamp, which I found
+                  thoroughly engaging. As a result, I am enthusiastic to take on
+                  the challenge of the Web Developer bootcamp.
                 </p>
               </div>
 
