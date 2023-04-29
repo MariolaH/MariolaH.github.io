@@ -8,7 +8,7 @@ function MainTeaser() {
         <section>
           <div className="containerBottom text-center">
             <div className="row d-flex justify-content-center align-items-center py-5">
-              <div className="col-sm-4 d-flex justify-content-center align-items-center py-5">
+              <div className="col-sm-4 d-flex justify-content-center align-items-center">
                 <div className="cardHome">
                   <div className="card-header CardHeader">BLOG BY MARIOLA</div>
                   <br />
@@ -51,10 +51,10 @@ function MainTeaser() {
       <div className="frameBottom">
         <section>
           <div className="containerBottom text-center">
-            <div className="row d-flex justify-content-center align-items-center py-5">
-              <div className="col-sm-4 d-flex justify-content-center align-items-center py-5">
+            <div className="row d-flex justify-content-center align-items-center">
+              <div className="col-sm-4 d-flex justify-content-center align-items-center">
                 <div className="cardHome">
-                  <div className="card-header CardHeader">BLOG BY MARIOLA</div>
+                  {/* <div className="card-header CardHeader">BLOG BY MARIOLA</div> */}
                   <br />
                   <div className="card-body">
                     <h5 className="card-title">
@@ -94,10 +94,10 @@ function MainTeaser() {
       <div className="frameBottom">
         <section>
           <div className="containerBottom text-center">
-            <div className="row d-flex justify-content-center align-items-center py-5">
+            <div className="row d-flex justify-content-center align-items-center ">
               <div className="col-sm-4 d-flex justify-content-center align-items-center py-5">
                 <div className="cardHome">
-                  <div className="card-header CardHeader">BLOG BY MARIOLA</div>
+                  {/* <div className="card-header CardHeader">BLOG BY MARIOLA</div> */}
                   <br />
                   <div className="card-body">
                     <h5 className="card-title">
