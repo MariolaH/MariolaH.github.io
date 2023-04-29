@@ -29,7 +29,7 @@
 
 @media only screen and (max-width: 768px) {
   .homePagePic {
-    max-width: 150px;
+    max-width: 250px;
   }
 }
 
@@ -40,8 +40,9 @@
 } */
 
 .homePagePic {
-  width: 100%;
-  max-width: 450px;
+  /* width: 100%;
+  max-width: 450px; */
+  width: 350px;
   height: auto;
 }
 
