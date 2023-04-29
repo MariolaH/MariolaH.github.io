@@ -8,7 +8,7 @@ function MainTeaser() {
         <section>
           <div className="containerBottom text-center">
             <div className="row d-flex justify-content-center align-items-center py-5">
-              <div className="col-md-4 d-flex justify-content-center align-items-center py-5">
+              <div className="col-sm-4 d-flex justify-content-center align-items-center py-5">
                 <div className="cardHome">
                   <div className="card-header CardHeader">BLOG BY MARIOLA</div>
                   <br />
@@ -52,7 +52,7 @@ function MainTeaser() {
         <section>
           <div className="containerBottom text-center">
             <div className="row d-flex justify-content-center align-items-center py-5">
-              <div className="col-md-4 d-flex justify-content-center align-items-center py-5">
+              <div className="col-sm-4 d-flex justify-content-center align-items-center py-5">
                 <div className="cardHome">
                   <div className="card-header CardHeader">BLOG BY MARIOLA</div>
                   <br />
@@ -95,7 +95,7 @@ function MainTeaser() {
         <section>
           <div className="containerBottom text-center">
             <div className="row d-flex justify-content-center align-items-center py-5">
-              <div className="col-md-4 d-flex justify-content-center align-items-center py-5">
+              <div className="col-sm-4 d-flex justify-content-center align-items-center py-5">
                 <div className="cardHome">
                   <div className="card-header CardHeader">BLOG BY MARIOLA</div>
                   <br />
