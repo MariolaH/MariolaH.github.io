@@ -27,19 +27,39 @@
   }
 }
 
+@media only screen and (max-width: 768px) {
+  .homePagePic {
+    max-width: 150px;
+  }
+}
+
+
+/* .homePagePic {
+  width: 450px;
+  height: auto;
+} */
 
 .homePagePic {
-  width: 450px;
+  width: 100%;
+  max-width: 450px;
   height: auto;
 }
 
-.homePagePic1 {
+/* .homePagePic1 {
   width: 250px;
   height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+} */
+
+.homePagePic1 {
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
 
 .body {
@@ -63,7 +83,11 @@
   margin-left: auto;
   margin-right: auto;
   width: 90%;
-  /* line-height: 250%; */
+
+    font-size: 1.2rem;
+  padding: 0 1rem;
+  width: 90%;
+  margin: 0 auto;
 }
 
 .nav {
@@ -71,7 +95,8 @@
   justify-content: space-between;
   font-family: monospace;
   font-weight: bolder;
-  font-size: 20px;
+  /* font-size: 20px; */
+  font-size: 1.2rem;
 }
 
 .nav:link {
@@ -90,19 +115,26 @@ h3 {
 }
 
 .CardHeader {
-  font-size: 30px;
+  /* font-size: 30px; */
+  font-size: 2rem;
   font-family: monospace;
   color: rgb(106, 104, 100);
 }
 
 .btnSVG {
   padding: 20px;
+
 }
 
 .btnSVG2 {
-  height: 50px;
+  /* height: 50px; */
   padding-right: 75px;
   padding-left: 75px;
+
+  width: 80%;
+  max-width: 400px;
+  height: auto;
+  padding: 5%;
 }
 
 .card {
@@ -121,6 +153,9 @@ h1 {
   font-family: monospace;
   padding-top: 40px;
   padding-bottom: 20px;
+
+  font-size: 2.5rem;
+  padding: 5% 0;
 }
 
 /* BIO */
@@ -135,4 +170,10 @@ h1 {
 .frameBottom {
   padding-left: 25px;
   padding-right: 25px;
+  padding: 1rem;
+}
+
+.containerBottom {
+  padding-left: 20px;
+  padding-right: 20px;
 }
