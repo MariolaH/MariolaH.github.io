@@ -178,3 +178,10 @@ h1 {
   padding-left: 60px;
   padding-right: 60px;
 }
+
+/* Projects */
+
+.flex{
+  width: 10rem;
+  height: auto;
+}

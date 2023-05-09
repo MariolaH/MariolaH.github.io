@@ -13,7 +13,7 @@ function Bio() {
                 <img
                   src="./Image/Profile p.jpg"
                   className="homePagePic1"
-                  alt="Image of Mariola Hullings"
+                  alt="Mariola Hullings"
                 />
               </div>
               <div className="col-sm-8 py-5">
