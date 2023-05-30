@@ -486,6 +486,23 @@ function Blog() {
               </div>
               <br />
             </div>
+
+            <div className="row d-flex justify-content-center align-items-center py-1">
+              <div className="col-sm-8 d-flex justify-content-center align-items-center py-1">
+                <div className="card">
+                  <div className="card-body">
+                    <br />
+                    <h4 className="card-title">The Parallax Effect</h4>
+                    <br />
+                    <p className="card-text">
+                
+                    </p>
+                    <br />
+                  </div>
+                </div>
+              </div>
+              <br />
+            </div>
           </div>
         </section>
       </div>
