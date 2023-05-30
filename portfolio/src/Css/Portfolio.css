@@ -185,3 +185,7 @@ h1 {
   width: 10rem;
   height: auto;
 }
+
+.btn {
+    margin-right: 5px;
+}

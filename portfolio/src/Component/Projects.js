@@ -26,14 +26,15 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript, React,
                       Django, Django REST framework, Python
-                
                     </p>
                     <a
                       rel="noreferrer"
                       href="https://flex-app.vercel.app/"
                       target="_blank"
                     >
-                      <button className="btn">View Project</button>
+                      <button className="btn btn-outline-secondary">
+                        View Project
+                      </button>
                     </a>
 
                     <a
@@ -41,8 +42,9 @@ function Projects() {
                       href="https://github.com/MariolaH/Frontend-FLEX"
                       target="_blank"
                     >
-                   
-                      <button className="btn">View Repo</button>
+                      <button className="btn btn-outline-secondary">
+                        View Repo
+                      </button>
                     </a>
                     <br />
                     <br />
@@ -72,21 +74,24 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript, React
                     </p>
-            
+
                     <a
                       rel="noreferrer"
                       href="https://to-do-list-mariolah.vercel.app"
                       target="_blank"
                     >
-                      <button className="btn">View Project</button>
+                      <button className="btn btn-outline-secondary">
+                        View Project
+                      </button>
                     </a>
                     <a
                       rel="noreferrer"
                       href="https://github.com/MariolaH/To-Do-List"
                       target="_blank"
                     >
-                 
-                      <button className="btn">View Repo</button>
+                      <button className="btn btn-outline-secondary">
+                        View Repo
+                      </button>
                     </a>
                   </div>
                 </div>
@@ -112,14 +117,18 @@ function Projects() {
                       href="https://react-restaurant-bistro.vercel.app"
                       target="_blank"
                     >
-                      <button className="btn">View Project</button>
+                      <button className="btn btn-outline-secondary">
+                        View Project
+                      </button>
                     </a>
                     <a
                       rel="noreferrer"
-                      href="https://github.com/MariolaH/MariolaH.github.io/tree/main/portfolio"
+                      href="https://github.com/MariolaH/React-Restaurant"
                       target="_blank"
                     >
-                      <button className="btn">View Repo</button>
+                      <button className="btn btn-outline-secondary">
+                        View Repo
+                      </button>
                     </a>
                     <br />
                     <br />
@@ -149,7 +158,9 @@ function Projects() {
                       href="https://tic-tac-toe-mh.vercel.app"
                       target="_blank"
                     >
-                      <button className="btn">View Project</button>
+                      <button className="btn btn-outline-secondary">
+                        View Project
+                      </button>
                     </a>
 
                     <a
@@ -157,7 +168,9 @@ function Projects() {
                       href="https://github.com/MariolaH/tic-tac-toe"
                       target="_blank"
                     >
-                      <button className="btn">View Repo</button>
+                      <button className="btn btn-outline-secondary">
+                        View Repo
+                      </button>
                     </a>
                     <br />
                   </div>
@@ -179,21 +192,24 @@ function Projects() {
                     <p className="card-text">
                       Tech Stack: HTML, CSS, Bootstrap, JavaScript
                     </p>
-                  
+
                     <a
                       rel="noreferrer"
                       href="https://mariolah.github.io/Weather-App/"
                       target="_blank"
                     >
-                      <button className="btn">View Project</button>
+                      <button className="btn btn-outline-secondary">
+                        View Project
+                      </button>
                     </a>
                     <a
                       rel="noreferrer"
                       href="https://github.com/MariolaH/Weather-App"
                       target="_blank"
                     >
-                 
-                      <button className="btn">View Repo</button>
+                      <button className="btn btn-outline-secondary">
+                        View Repo
+                      </button>
                     </a>
                     <br />
                   </div>
@@ -221,7 +237,9 @@ function Projects() {
                       href="https://mariolah.github.io/mind-reader/"
                       target="_blank"
                     >
-                      <button className="btn">View Project</button>
+                      <button className="btn btn-outline-secondary">
+                        View Project
+                      </button>
                     </a>
 
                     <a
@@ -229,8 +247,9 @@ function Projects() {
                       href="https://github.com/MariolaH/mind-reader"
                       target="_blank"
                     >
-             
-                      <button className="btn">View Repo</button>
+                      <button className="btn btn-outline-secondary">
+                        View Repo
+                      </button>
                     </a>
                     <br />
                   </div>
@@ -258,7 +277,9 @@ function Projects() {
                       href="https://mariolah.github.io/alarm-clock/"
                       target="_blank"
                     >
-                      <button className="btn">View Project</button>
+                      <button className="btn btn-outline-secondary">
+                        View Project
+                      </button>
                     </a>
 
                     <a
@@ -266,7 +287,9 @@ function Projects() {
                       href="https://github.com/MariolaH/alarm-clock"
                       target="_blank"
                     >
-                      <button className="btn">View Repo</button>
+                      <button className="btn btn-outline-secondary">
+                        View Repo
+                      </button>
                     </a>
                     <br />
                   </div>
@@ -293,14 +316,18 @@ function Projects() {
                       href="https://react-technical-article.vercel.app/"
                       target="_blank"
                     >
-                      <button className="btn">View Project</button>
+                      <button className="btn btn-outline-secondary">
+                        View Project
+                      </button>
                     </a>
                     <a
                       rel="noreferrer"
                       href="https://github.com/MariolaH/React-technical-article"
                       target="_blank"
                     >
-                      <button className="btn">View Repo</button>
+                      <button className="btn btn-outline-secondary">
+                        View Repo
+                      </button>
                     </a>
                     <br />
                   </div>
