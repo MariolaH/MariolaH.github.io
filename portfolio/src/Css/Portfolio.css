@@ -165,7 +165,8 @@ h1 {
 }
 @media (max-width: 767px) {
     .bioParagraph {
-        font-size: 10px;  /* Adjust as needed */
+        font-size: 13px;  /* Adjust as needed */
+         line-height: 2;
     }
 }
 
