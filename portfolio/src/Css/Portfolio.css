@@ -6,9 +6,9 @@
   .homePagePic1 {
     max-width: 350px;
   }
-  .bioParagraph {
+  /* .bioParagraph {
     font-size: 1.5rem;
-  }
+  } */
   .nav {
     font-size: 1.5rem;
   }
@@ -26,13 +26,11 @@
     padding: 3% 0;
   }
 }
-
 @media only screen and (max-width: 768px) {
   .homePagePic {
     max-width: 250px;
   }
 }
-
 
 /* .homePagePic {
   width: 450px;
@@ -85,7 +83,7 @@
   margin-right: auto;
   width: 90%;
 
-    font-size: 1.2rem;
+    /* font-size: 0.5rem; */
   padding: 0 1rem;
   width: 90%;
   margin: 0 auto;
@@ -164,6 +162,11 @@ h1 {
 .bioParagraph {
   font-size: 20px;
   font-family: monospace;
+}
+@media (max-width: 767px) {
+    .bioParagraph {
+        font-size: 10px;  /* Adjust as needed */
+    }
 }
 
 /* blog */
