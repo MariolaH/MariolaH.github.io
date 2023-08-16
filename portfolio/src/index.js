@@ -7,6 +7,7 @@ import Projects from "./Component/Projects.js";
 import Contact from "./Component/Contact.js";
 import reportWebVitals from './reportWebVitals';
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import Ios from './Component/iOS';
 
 
 const router = createBrowserRouter([
@@ -21,6 +22,10 @@ const router = createBrowserRouter([
   {
     path: "/blog",
     element: <Blog />,
+  },
+  {
+    path: "/iOS",
+    element: <Ios />,
   },
   {
     path: "/projects",

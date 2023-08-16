@@ -1,6 +1,7 @@
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
+import NavbarToggle from "react-bootstrap/esm/NavbarToggle";
 import { BrowserRouter as Router, Link } from "react-router-dom";
 // import Blog from "./portfolio/src/Component/Blog.js";
 
@@ -11,6 +12,9 @@ function NavNew() {
       <nav>
         <Navbar className="nav" expand="md">
           <Container>
+            <NavbarToggle aria-controls="responsive-navbar-nav" />
+            <Navbar.Collapse id="responsive-navbar-nav">
+
             <Nav className="me-auto">
               <Nav.Link as={Link} to={"/"}>
                 <b> H O M E </b> &#160; &#160; &#160;
@@ -20,6 +24,9 @@ function NavNew() {
               </Nav.Link>
               <Nav.Link as={Link} to={"/bio"}>
                 B I O &#160; &#160;
+              </Nav.Link>
+              <Nav.Link as={Link} to={"/iOS"}>
+                i O S &#160; &#160;
               </Nav.Link>
               <Nav.Link as={Link} to={"/projects"}>
                 P R O J E C T S &#160; &#160;
@@ -32,25 +39,26 @@ function NavNew() {
               rel="noreferrer"
               target="_blank"
               href="https://www.linkedin.com/in/mariola-hullings-9579b6238/"
-            >
+              >
               <img
                 src="./Image/linkedin.svg"
                 className="btnSVG"
                 alt="Linkedin Logo"
-              />
+                />
             </a>
 
             <a
               rel="noreferrer"
               target="_blank"
               href="https://github.com/MariolaH"
-            >
+              >
               <img
                 src="./Image/github.svg"
                 className="btnSVG"
                 alt="Github Logo"
-              />
+                />
             </a>
+                </Navbar.Collapse>
           </Container>
         </Navbar>
       </nav>

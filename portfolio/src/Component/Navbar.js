@@ -22,6 +22,15 @@ function Navbar() {
               B I O
             </a>
           </div>
+            <div className="col-2 d-flex justify-content-center align-items-center py-3">
+            <a
+              href="/HTML/Contact.html"
+              className="btn btn-outline"
+            >
+              {" "}
+              P R O J E C T S
+            </a>
+          </div>
 
           <div className="col-2 d-flex justify-content-center align-items-center py-3">
             <a
