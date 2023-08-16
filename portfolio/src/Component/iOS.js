@@ -15,46 +15,30 @@ function Ios() {
             <div className="row d-flex justify-content-center align-items-center py-3">
               <div className="col-sm-6 d-flex justify-content-center align-items-center py-3">
                 <div className="card">
-                    <div>"PROJECTS COMING SOON"</div>
-                  {/* <img
+                  <video
                     class="card-img-top"
-                    src="./Image/FlexApp.png"
+                    src="./Image/barbie-calculator.mov"
+                    height={350}
                     alt="FLEX"
-                  ></img> */}
+                    controls
+                  ></video>
                   <div className="card-body">
-                    {/* <h4 className="card-title">FLEX</h4> */}
+                    <h4 className="card-title">BARBIE CALCULATOR</h4>
                     <br />
-                    {/* <p className="card-text">
-                      Tech Stack: HTML, CSS, Bootstrap, JavaScript, React,
-                      Django, Django REST framework, Python
-                    </p> */}
-                    {/* <a
-                      rel="noreferrer"
-                      href="https://flex-app.vercel.app/"
-                      target="_blank"
-                    >
-                      <button className="btn btn-outline-secondary">
-                        View Project
-                      </button>
-                    </a>
+                    <p className="card-text">Tech Stack: SWIFT UIKIT</p>
 
                     <a
                       rel="noreferrer"
-                      href="https://github.com/MariolaH/Frontend-FLEX"
+                      href="https://github.com/MariolaH/BarbieCalculatorSwift"
                       target="_blank"
                     >
                       <button className="btn btn-outline-secondary">
                         View Repo
                       </button>
-                    </a> */}
+                    </a>
                     <br />
                     <br />
-                    {/* <p>
-                      {" "}
-                      ** For optimal user experience, kindly access the content
-                      via a mobile device
-                    </p> */}
-               </div>
+                  </div>
                 </div>
               </div>
             </div>
