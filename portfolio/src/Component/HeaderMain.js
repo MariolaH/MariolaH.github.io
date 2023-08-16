@@ -5,8 +5,8 @@ function HeaderMain() {
         <div className="container">
           <div className="row d-flex justify-content-right ">
             <br />
-            <div className="col-sm-6 d-flex justify-content-center intro ign-items-center py-5">
-              <h3>
+            <div className="col-6 d-flex justify-content-center align-items-center py-5">
+              <h3 className="homePageFont">
                 <br />
                 <br />
                 M y <br />
@@ -19,7 +19,7 @@ function HeaderMain() {
               </h3>
               <br />
             </div>
-            <div className="col-md-4 d-flex justify-content-center align-items-content-center py-5">
+            <div className="col-6 d-flex justify-content-center align-items-content-center py-5">
               <img
                 src="./Image/imageonrock.jpg"
                 className="homePagePic"

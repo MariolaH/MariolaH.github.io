@@ -28,7 +28,11 @@
 }
 @media only screen and (max-width: 768px) {
   .homePagePic {
-    max-width: 250px;
+    max-width: 150px;
+  }
+  .homePageFont {
+    font-size: 10px;
+    
   }
 }
 
