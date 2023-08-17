@@ -1,14 +1,13 @@
 function HeaderMain() {
   return (
     <div className="frame">
-      <section>
+
         <div className="container">
           <div className="row d-flex justify-content-right ">
-            <br />
+            
             <div className="col-6 d-flex justify-content-center align-items-center py-5">
               <h3 className="homePageFont">
-                <br />
-                <br />
+        
                 M y <br />
                 <br /> J o u r n e y <br />
                 <br /> t o <br />
@@ -28,13 +27,12 @@ function HeaderMain() {
             </div>
           </div>
         </div>
-      </section>
 
-      <div className="container">
+      {/* <div className="container">
         <div className="row d-flex justify-content-center align-items-center py-3">
           <div className="col-md-12 d-flex justify-content-left align-items-left py-3"></div>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }

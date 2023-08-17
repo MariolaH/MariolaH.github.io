@@ -1,7 +1,8 @@
 import React from "react";
 import NavNew from "./NavNew";
+// import ProjectsIOS from "./ProjectsIOS";
 
-function Ios({ videoSrc, title, techStack,repoLink}) {
+function Ios() {
   return (
     <>
       <NavNew />
@@ -11,7 +12,7 @@ function Ios({ videoSrc, title, techStack,repoLink}) {
           <b className="projectTitle">i O S &nbsp; P R O J E C T S</b>
         </h1>
         <section>
-          {/* <div className="containerBlog">
+          <div className="containerBlog">
             <div className="row d-flex justify-content-center align-items-center py-3">
               <div className="col-sm-6 d-flex justify-content-center align-items-center py-3">
                 <div className="card">
@@ -25,7 +26,7 @@ function Ios({ videoSrc, title, techStack,repoLink}) {
                   <div className="card-body">
                     <h4 className="card-title">BARBIE CALCULATOR</h4>
                     <br />
-                    <p className="card-text">Tech Stack: SWIFT UIKIT</p>
+                    <p className="card-text">Tech Stack: Swift UIKit</p>
 
                     <a
                       rel="noreferrer"
@@ -42,9 +43,9 @@ function Ios({ videoSrc, title, techStack,repoLink}) {
                 </div>
               </div>
             </div>
-          </div> */}
+          </div>
 
-          <div className="containerBlog">
+          {/* <div className="containerBlog">
             <div className="row d-flex justify-content-center align-items-center py-3">
               <div className="col-sm-6 d-flex justify-content-center align-items-center py-3">
                 <div className="card">
@@ -75,7 +76,7 @@ function Ios({ videoSrc, title, techStack,repoLink}) {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
         </section>
       </div>
     </>
