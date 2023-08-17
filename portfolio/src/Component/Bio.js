@@ -16,7 +16,7 @@ function Bio() {
                   alt="Mariola Hullings"
                 />
               </div>
-              <div className="col-6 d-flex justify-content-right py-5 wrap-under">
+              <div className="col-6 d-flex justify-content-right py-5">
                 <p className="bioParagraph">
                   Hello, my name is Mariola and reside in the Kentucky area. I
                   have a passion for keeping active, especially with activities

@@ -133,7 +133,7 @@ h3 {
   }
   .nav {
     font-size: 9px;
-    line-height: 0.2;
+    line-height: 0.9;
     padding-top: 12px;
   }
   .btnSVG {
@@ -188,7 +188,7 @@ h1 {
 @media (max-width: 767px) {
   .bioParagraph {
     font-size: 13px; /* Adjust as needed */
-    line-height: 1;
+    line-height: 2;
     padding: 0px;
   }
 }
