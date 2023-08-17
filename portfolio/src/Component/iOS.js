@@ -17,7 +17,7 @@ function Ios() {
                 <div className="card">
                   <video
                     class="card-img-top"
-                    src="./Image/barbie-calculator.mov"
+                    src="./Image/iOSCalculator.mov"
                     height={350}
                     alt="FLEX"
                     controls
