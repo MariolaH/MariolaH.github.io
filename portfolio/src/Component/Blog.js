@@ -33,7 +33,7 @@ function Blog() {
                       I'm thrilled to be immersing myself in this dynamic and
                       exciting field, and I'm eager to learn as much as I can.
                     </p>
-                    <p>
+                    <p className="card-text">
                       Luckily, the program has provided us with a wealth of
                       valuable resources through Slack, which has been a
                       lifesaver in helping me better understand the topics at
@@ -41,7 +41,7 @@ function Blog() {
                       with other students in the online community, I feel
                       confident that I have the support I need to succeed.
                     </p>
-                    <p>
+                    <p className="card-text">
                       Of course, as someone who's no stranger to remote learning
                       and virtual meetings through platforms like Zoom, I had a
                       pretty good idea of what to expect going into this
@@ -70,7 +70,7 @@ function Blog() {
                       experience, and I'm eager to build upon what I've learned
                       so far.
                     </p>
-                    <p>
+                    <p className="card-text">
                       One of the things I love about web development is the
                       opportunity to use different languages to create dynamic
                       and interactive websites and applications. With my
@@ -78,7 +78,7 @@ function Blog() {
                       languages and frameworks, and see what kind of fun and
                       innovative projects I can bring to life.
                     </p>
-                    <p>
+                    <p className="card-text">
                       I believe that the possibilities in web development are
                       endless, and I'm thrilled to be a part of such a dynamic
                       and rapidly evolving field. I can't wait to see where this
@@ -108,7 +108,7 @@ function Blog() {
                       is the best way to gain new perspectives and enrich our
                       lives.{" "}
                     </p>
-                    <p>
+                    <p className="card-text">
                       In fact, some of the most unforgettable moments of my life
                       have taken place while traveling. I met my husband at a
                       bus stop in Vienna, Austria, and we fell in love while
@@ -147,7 +147,7 @@ function Blog() {
                       together, enabling dynamic and interactive functionality
                       that truly sets a site apart.
                     </p>
-                    <p>
+                    <p className="card-text">
                       But what's really interesting about these languages is the
                       way they work together to create a cohesive whole. Rather
                       than operating in isolation, HTML, CSS, and JavaScript
@@ -155,7 +155,7 @@ function Blog() {
                       amplifying the others to create a superior user experience
                       that's both functional and visually appealing.
                     </p>
-                    <p>
+                    <p className="card-text">
                       It's this interplay between these languages that truly
                       sets web development apart as a creative and dynamic
                       field, and it's a joy to be able to explore the
@@ -182,7 +182,7 @@ function Blog() {
                       foundation. And one of the best ways to create that
                       foundation is by using pseudocode.
                     </p>
-                    <p>
+                    <p className="card-text">
                       I believe that pseudocode is an essential tool for any
                       programmer looking to write clean, efficient, and
                       effective code. By taking the time to lay out your plan in

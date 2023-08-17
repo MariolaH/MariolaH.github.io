@@ -8,7 +8,7 @@ function Ios() {
       <div className="frame">
         <br />
         <h1>
-          <b>i O S &nbsp; P R O J E C T S</b>
+          <b className="projectTitle">i O S &nbsp; P R O J E C T S</b>
         </h1>
         <section>
           <div className="containerBlog">

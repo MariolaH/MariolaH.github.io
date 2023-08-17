@@ -19,7 +19,7 @@ function HeaderMain() {
               </h3>
               <br />
             </div>
-            <div className="col-6 d-flex justify-content-center align-items-content-center py-5">
+            <div className="col-6 d-flex justify-content-right py-5">
               <img
                 src="./Image/imageonrock.jpg"
                 className="homePagePic"

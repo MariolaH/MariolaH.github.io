@@ -8,7 +8,7 @@ function Projects() {
       <div className="frame">
         <br />
         <h1>
-          <b>P R O J E C T S</b>
+          <b className="projectTitle">P R O J E C T S</b>
         </h1>
         <section>
           <div className="containerBlog">
@@ -48,7 +48,7 @@ function Projects() {
                     </a>
                     <br />
                     <br />
-                    <p>
+                    <p className="card-text">
                       {" "}
                       ** For optimal user experience, kindly access the content
                       via a mobile device
