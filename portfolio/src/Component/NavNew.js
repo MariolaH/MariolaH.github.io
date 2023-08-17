@@ -8,24 +8,25 @@ import React, { useEffect } from 'react';
 
 function NavNew() {
 
-    useEffect(() => {
-      const handleScroll = () => {
-        const navbar = document.querySelector(".nav");
-        if (window.scrollY > 100) {
-          // If the user has scrolled more than 100px
-          navbar.style.top = `${window.scrollY}px`; // Move the navbar down
-        } else {
-          navbar.style.top = "0px"; // Otherwise, reset the navbar to the top
-        }
-      };
+useEffect(() => {
+  const handleScroll = () => {
+    const navbar = document.querySelector(".nav");
+    if (window.scrollY > 1) {
+      navbar.style.top = `${window.scrollY}px`; // Move the navbar down
+    } else {
+      navbar.style.top = "0px"; // Reset the navbar to the top
+    }
+  };
 
-      window.addEventListener("scroll", handleScroll);
+  window.addEventListener("scroll", handleScroll);
 
-      // Cleanup the listener when the component is unmounted
-      return () => {
-        window.removeEventListener("scroll", handleScroll);
-      };
-    }, []);
+  // Cleanup the listener when the component is unmounted
+  return () => {
+    window.removeEventListener("scroll", handleScroll);
+  };
+}, []);
+
+    
 
 
   return (

@@ -6,9 +6,6 @@
   /* .bioParagraph {
     font-size: 1.5rem;
   } */
-  .nav {
-    font-size: 1.5rem;
-  }
   .CardHeader {
     font-size: 3rem;
   }
@@ -74,24 +71,20 @@
     rgb(40, 40, 40),
     rgb(237, 236, 230),
     rgb(106, 104, 100)
-  )
+  );
 }
-
 
 .nav {
   background-color: white;
   justify-content: space-between;
   font-family: monospace;
   font-weight: bolder;
-  /* font-size: 20px; */
   font-size: 1.2rem;
-    position: fixed;
+  position: fixed;
   top: 0;
   width: 100%;
-  z-index: 1000; /* Keeps the navbar above other content */
-  transition: top 0.3s; /* Smooth transition */
+  z-index: 1000;
 }
-
 
 .nav:link {
   text-decoration: none;
@@ -143,12 +136,12 @@ h3 {
     padding-top: 12px;
   }
   .btnSVG:first-child {
-  margin-right: 55px;
-  padding-right: 12px;
-  margin-top: 5px;
-  height: 15px;
-  width: auto;
-}
+    margin-right: 55px;
+    padding-right: 12px;
+    margin-top: 5px;
+    height: 15px;
+    width: auto;
+  }
 }
 
 .btnSVG:first-child {
