@@ -131,8 +131,15 @@ h3 {
   .projectTitle {
     font-size: 20px;
   }
-  .wrap-under {
-    flex-direction: column-reverse;
+  .nav {
+    font-size: 9px;
+    line-height: 0.2;
+    padding-top: 12px;
+  }
+  .btnSVG {
+    height: 55px;
+    width: auto;
+    padding: 0px;
   }
 }
 .btnSVG {

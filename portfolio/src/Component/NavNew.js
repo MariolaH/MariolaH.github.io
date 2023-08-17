@@ -14,7 +14,8 @@ function NavNew() {
           <Container>
             <NavbarToggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
-
+<br/>
+<br/>
             <Nav className="me-auto">
               <Nav.Link as={Link} to={"/"}>
                 <b> H O M E </b> &#160; &#160; &#160;
