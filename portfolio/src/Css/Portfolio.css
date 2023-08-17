@@ -136,14 +136,14 @@ h3 {
     line-height: 0.9;
     padding-top: 12px;
   }
-  .btnSVG {
-    height: 55px;
-    width: auto;
-    padding: 0px;
-  }
+  .btnSVG:first-child {
+  margin-right: 10px;
+  height: 15px;
+  width: auto;
 }
-.btnSVG {
-  padding: 20px;
+}
+.btnSVG:first-child {
+  margin-right: 10px;
 }
 
 .btnSVG2 {
