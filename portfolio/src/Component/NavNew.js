@@ -4,33 +4,12 @@ import Navbar from "react-bootstrap/Navbar";
 import NavbarToggle from "react-bootstrap/esm/NavbarToggle";
 import { BrowserRouter as Router, Link } from "react-router-dom";
 // import Blog from "./portfolio/src/Component/Blog.js";
-import React, { useEffect } from 'react';
 
 function NavNew() {
 
-useEffect(() => {
-  const handleScroll = () => {
-    const navbar = document.querySelector(".nav");
-    if (window.scrollY > 1) {
-      navbar.style.top = `${window.scrollY}px`; // Move the navbar down
-    } else {
-      navbar.style.top = "0px"; // Reset the navbar to the top
-    }
-  };
-
-  window.addEventListener("scroll", handleScroll);
-
-  // Cleanup the listener when the component is unmounted
-  return () => {
-    window.removeEventListener("scroll", handleScroll);
-  };
-}, []);
-
-    
-
-
   return (
     <>
+    <div className="nav-container"> 
       <nav>
         <Navbar className="nav" expand="md">
           <Container>
@@ -85,6 +64,7 @@ useEffect(() => {
           </Container>
         </Navbar>
       </nav>
+                </div>
     </>
   );
 }

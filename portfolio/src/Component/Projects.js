@@ -1,10 +1,12 @@
 import React from "react";
 import NavNew from "./NavNew";
+import { ScrollRestoration } from "react-router-dom";
 
 function Projects() {
   return (
     <>
       <NavNew />
+      <ScrollRestoration />
       <div className="frame">
         <br />
         <h1>

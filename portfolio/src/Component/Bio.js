@@ -18,7 +18,7 @@ function Bio() {
               </div>
               <div className="col-6 d-flex justify-content-right py-5">
                 <p className="bioParagraph">
-                  Hello, my name is Mariola and reside in the Kentucky area. I
+                  Hello, my name is Mariola and I reside in the Kentucky area. I
                   have a passion for keeping active, especially with activities
                   like hitting the gym and hiking. A good friend introduced me
                   to the Awesome Inc bootcamp. Following their lead, I took on
