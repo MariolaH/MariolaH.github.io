@@ -74,22 +74,9 @@
     rgb(40, 40, 40),
     rgb(237, 236, 230),
     rgb(106, 104, 100)
-  );
+  )
 }
 
-.bioParagraph {
-  padding-right: 20px;
-  padding-left: 30px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 90%;
-
-  /* font-size: 0.5rem; */
-  padding: 0 1rem;
-  width: 90%;
-  margin: 0 auto;
-}
 
 .nav {
   background-color: white;
@@ -194,7 +181,8 @@ h1 {
 @media (max-width: 767px) {
   .bioParagraph {
     font-size: 13px; /* Adjust as needed */
-    line-height: 2;
+    line-height: 1;
+    padding: 0px;
   }
 }
 
