@@ -85,7 +85,13 @@
   font-weight: bolder;
   /* font-size: 20px; */
   font-size: 1.2rem;
+    position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000; /* Keeps the navbar above other content */
+  transition: top 0.3s; /* Smooth transition */
 }
+
 
 .nav:link {
   text-decoration: none;
@@ -144,6 +150,7 @@ h3 {
   width: auto;
 }
 }
+
 .btnSVG:first-child {
   margin-right: 10px;
 }
