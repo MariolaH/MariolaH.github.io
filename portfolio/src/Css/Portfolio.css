@@ -137,7 +137,8 @@ h3 {
     padding-top: 12px;
   }
   .btnSVG:first-child {
-  margin-right: 18px;
+  margin-right: 55px;
+  padding-right: 12px;
   margin-top: 5px;
   height: 15px;
   width: auto;
