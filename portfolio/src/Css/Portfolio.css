@@ -39,13 +39,45 @@
   padding: 30 px;
 }
 
-.frame {
+/* .frame {
   background-image: linear-gradient(
     to bottom right,
     rgb(40, 40, 40),
     rgb(237, 236, 230),
     rgb(106, 104, 100)
   );
+} */
+
+.frame {
+  /* background: linear-gradient(211deg, #282828, #94949d, #c0c0d2, #6a6a71, #b4b4c2);
+  background-size: 300% 300%;
+  animation: gradient-animation 5s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  } */
+  background: linear-gradient(283deg,#94949d,#c0c0d2,#6a6a71,#b4b4c2,#c5c6d0,#666771,#dcdded);
+  background-size: 420% 420%;
+  animation: gradient-animation 21s ease infinite;
+}
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
 }
 
 .nav {
