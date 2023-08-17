@@ -35,7 +35,7 @@ function MainTeaser() {
                         //     behavior: "smooth",
                         //   });
                         // }}
-                        className="btn btn-outline-secondary button btn-lg custom-btn"
+                        className="btn btn-outline-secondary"
                       >
                         B L O G
                       </Link>
@@ -79,7 +79,7 @@ function MainTeaser() {
                         //     behavior: "smooth",
                         //   });
                         // }}
-                        className="btn btn-outline-secondary button btn-lg custom-btn"
+                        className="btn btn-outline-secondary"
                       >
                         B L O G
                       </Link>
@@ -121,7 +121,7 @@ function MainTeaser() {
                         //     behavior: "smooth",
                         //   });
                         // }}
-                        className="btn btn-outline-secondary button custom-btn2 custom-btn"
+                        className="btn btn-outline-secondary"
                       >
                         B L O G
                         <ScrollRestoration />

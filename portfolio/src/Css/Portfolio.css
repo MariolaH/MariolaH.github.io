@@ -3,9 +3,6 @@
   .homePagePic {
     max-width: 600px;
   }
-  .homePagePic1 {
-    max-width: 350px;
-  }
   /* .bioParagraph {
     font-size: 1.5rem;
   } */
@@ -26,15 +23,17 @@
     padding: 3% 0;
   }
 }
-@media only screen and (max-width: 768px) {
+/* @media only screen and (max-width: 768px) {
   .homePagePic {
     max-width: 150px;
   }
   .homePageFont {
     font-size: 13px;
-    
   }
-}
+  .homePagePic1 {
+    max-height: 250px;
+  }
+} */
 
 /* .homePagePic {
   width: 450px;
@@ -58,9 +57,8 @@
 } */
 
 .homePagePic1 {
-  width: 100%;
-  max-width: 250px;
-  height: auto;
+  width: auto;
+  height: 450px;
   display: block;
   margin: 0 auto;
 }
@@ -87,7 +85,7 @@
   margin-right: auto;
   width: 90%;
 
-    /* font-size: 0.5rem; */
+  /* font-size: 0.5rem; */
   padding: 0 1rem;
   width: 90%;
   margin: 0 auto;
@@ -125,35 +123,33 @@ h3 {
 }
 
 @media only screen and (max-width: 768px) {
+  .homePagePic {
+    max-width: 150px;
+  }
+  .homePageFont {
+    font-size: 13px;
+  }
+  .homePagePic1 {
+    max-height: 250px;
+  }
   .CardHeader {
-    font-size: 16px;   
+    font-size: 16px;
   }
   .card-title {
-font-size: 14px;
+    font-size: 14px;
   }
   .card-text {
-font-size: 12px;
-  }
-  .custom-btn {
-    font-size: 5px;     /* Adjusts the font size of the button */
-    padding: 3px 8px; 
+    font-size: 12px;
   }
   .projectTitle {
     font-size: 20px;
   }
+  .wrap-under {
+    flex-direction: column-reverse;
+  }
 }
-
-@media only screen and (min-width: 769px) {
-    .custom-btn2 {
-        font-size: 20px;      /* Increase the font size of the button */
-        padding: 15px 30px;  /* Increase the padding of the button */
-    }
-}
-
-
 .btnSVG {
   padding: 20px;
-
 }
 
 .btnSVG2 {
@@ -194,11 +190,12 @@ h1 {
   font-size: 20px;
   font-family: monospace;
 }
+
 @media (max-width: 767px) {
-    .bioParagraph {
-        font-size: 13px;  /* Adjust as needed */
-         line-height: 2;
-    }
+  .bioParagraph {
+    font-size: 13px; /* Adjust as needed */
+    line-height: 2;
+  }
 }
 
 /* blog */
@@ -216,11 +213,11 @@ h1 {
 
 /* Projects */
 
-.flex{
+.flex {
   width: 10rem;
   height: auto;
 }
 
 .btn {
-    margin-right: 5px;
+  margin-right: 5px;
 }
