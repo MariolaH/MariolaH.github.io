@@ -90,12 +90,12 @@ function MainTeaser() {
                       />
                     </div>
                     <br />
-                    <p>
-                     I've successfully completed
-                      Step 1 of the Google Career Certificates program in the
-                      Foundations of User Experience (UX) Design.
+                    <p className="card-text">
+                      I've successfully completed Step 1 of the Google Career
+                      Certificates program in the Foundations of User Experience
+                      (UX) Design.
                     </p>
-                    <p>
+                    <p className="card-text">
                       Getting to understand the basics, I'm genuinely seeing how
                       design decisions can shape our everyday digital
                       experiences. The journey's been both fun and challenging
@@ -128,7 +128,10 @@ function MainTeaser() {
                     </p>
                     <br />
                     <a href="https://3000-mariolah-mariolahgithub-zaasywq1geb.ws-us92.gitpod.io/blog">
-                      <Link to="/Blog#parallax-blog-post" className="btn btn-outline-secondary">
+                      <Link
+                        to="/Blog#parallax-blog-post"
+                        className="btn btn-outline-secondary"
+                      >
                         B L O G
                       </Link>
                     </a>
