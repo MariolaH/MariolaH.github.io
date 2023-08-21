@@ -52,7 +52,7 @@ function MainTeaser() {
                       
                         className="btn btn-outline-secondary btn-pink"
                       >
-                        Barbie Calculator
+                        CALCULATOR
                         <ScrollRestoration />
                       </Link>
                     </a>
