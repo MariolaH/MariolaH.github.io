@@ -486,6 +486,8 @@ function Blog() {
               </div>
               <br />
             </div>
+            <div id="parallax-blog-post">
+
 
             <div className="row d-flex justify-content-center align-items-center py-1">
               <div className="col-sm-8 d-flex justify-content-center align-items-center py-1">
@@ -519,7 +521,7 @@ function Blog() {
                         rel="noreferrer"
                         href="https://travel-aroundthe-world.vercel.app/"
                         target="_blank"
-                      >
+                        >
                         <button className="btn btn-outline-secondary">
                           View Travel Blog
                         </button>
@@ -527,6 +529,7 @@ function Blog() {
                     </p>
                     <br />
                   </div>
+                        </div>
                 </div>
               </div>
               <br />

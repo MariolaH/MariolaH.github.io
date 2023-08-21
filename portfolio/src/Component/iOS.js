@@ -1,11 +1,13 @@
 import React from "react";
 import NavNew from "./NavNew";
+import { ScrollRestoration } from "react-router-dom";
 // import ProjectsIOS from "./ProjectsIOS";
 
 function Ios() {
   return (
     <>
       <NavNew />
+      <ScrollRestoration />
       <div className="frame">
         <br />
         <h1>
@@ -20,13 +22,13 @@ function Ios() {
                     class="card-img-top"
                     src="./Image/iOSCalculator.mov"
                     height={350}
-                    alt="FLEX"
+                    alt="Calculator that is a Barbie theme"
                     controls
                   ></video>
                   <div className="card-body">
                     <h4 className="card-title">BARBIE CALCULATOR</h4>
                     <br />
-                    <p className="card-text">Tech Stack: Swift UIKit</p>
+                    <p className="card-text">Tech Stack: SwiftUI</p>
 
                     <a
                       rel="noreferrer"
@@ -45,29 +47,38 @@ function Ios() {
             </div>
           </div>
 
-          {/* <div className="containerBlog">
+          <div className="containerBlog">
             <div className="row d-flex justify-content-center align-items-center py-3">
               <div className="col-sm-6 d-flex justify-content-center align-items-center py-3">
                 <div className="card">
                   <video
                     className="card-img-top"
-                    src={videoSrc}
+                    src="./Image/CardWorkOut.mov"
                     height={350}
                     alt="FLEX"
                     controls
                   ></video>
                   <div className="card-body">
-                    <h4 className="card-title">{title}</h4>
+                    <h4 className="card-title">Card Workout Game</h4>
                     <br />
-                    <p className="card-text">Tech Stack: {techStack}</p>
-
+                    <p className="card-text">Tech Stack: Swift UIKit</p>
+                    <p className="card-text">View Repo</p>
                     <a
                       rel="noreferrer"
-                      href= {repoLink}
+                      href="https://github.com/MariolaH/CardWorkoutGame---storyboard"
                       target="_blank"
                     >
                       <button className="btn btn-outline-secondary">
-                        View Repo
+                        Storyboard
+                      </button>
+                    </a>
+                    <a
+                      rel="noreferrer"
+                      href="https://github.com/MariolaH/CardWorkOut-Programmatic"
+                      target="_blank"
+                    >
+                      <button className="btn btn-outline-secondary">
+                        Programmatic
                       </button>
                     </a>
                     <br />
@@ -76,7 +87,7 @@ function Ios() {
                 </div>
               </div>
             </div>
-          </div> */}
+          </div>
         </section>
       </div>
     </>

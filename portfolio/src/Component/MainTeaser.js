@@ -10,24 +10,45 @@ function MainTeaser() {
             <div className="row d-flex justify-content-center align-items-center py-5">
               <div className="col-sm-4 d-flex justify-content-center align-items-center">
                 <div className="cardHome">
-                  <div className="card-header CardHeader">BLOG BY MARIOLA</div>
+                  <div className="card-header CardHeader pb-3">Highlights</div>
                   <br />
                   <div className="card-body">
-                    <h5 className="card-title">
-                      Was your first week what you expected? Why? Why not?
-                    </h5>
+                    <h5 className="card-title">Barbie Calculator</h5>
                     <br />
                     <br />
                     <p className="card-text">
-                      As I wrapped up my first week in this program, I couldn't
-                      help but feel a bit overwhelmed by the sheer amount of
-                      information that was thrown my way. But at the same time,
-                      I'm thrilled...
+                      🎬 The much-awaited Barbie movie has just been released,
+                      and in the spirit of all things Barbie, I've created
+                      something special! 🎀✨
+                    </p>
+                    <p className="card-text">
+                      📱 Introducing my Barbie-themed calculator app, built
+                      using SwiftUI! 📱
+                    </p>
+                    <p className="card-text">
+                      🎨 With this app, I've combined creativity and
+                      functionality. The buttons are animated, adding a touch of
+                      magic to every calculation! 🦄💫
+                    </p>
+                    <p className="card-text">
+                      🌟 To truly capture the Barbie world, I've set a beautiful
+                      image as the background, immersing users in a delightful
+                      experience! 🌈📸
+                    </p>
+                    <p className="card-text">
+                      🧮 I leveraged the power of variables to create a dynamic
+                      user interface, making the calculator user-friendly and
+                      responsive! 💡
+                    </p>
+                    <p className="card-text">
+                      🔄 ➡️ I also utilized conditional statements to manage
+                      control flow, ensuring smooth operation and a seamless
+                      user experience! 🔄🚀
                     </p>
                     <br />
-                    <a href="https://3000-mariolah-mariolahgithub-zaasywq1geb.ws-us92.gitpod.io/blog">
+                    <a href="https://3000-mariolah-mariolahgithub-bzsqwralhtx.ws-us104.gitpod.io/iOS">
                       <Link
-                        to="/Blog"
+                        to="/iOS"
                         // onClick={() => {
                         //   window.scroll({
                         //     top: 0,
@@ -35,9 +56,10 @@ function MainTeaser() {
                         //     behavior: "smooth",
                         //   });
                         // }}
-                        className="btn btn-outline-secondary"
+                        className="btn btn-outline-secondary btn-pink"
                       >
-                        B L O G
+                        Barbie Calculator
+                        <ScrollRestoration />
                       </Link>
                     </a>
                   </div>
@@ -51,39 +73,35 @@ function MainTeaser() {
       <div className="frameBottom">
         <section>
           <div className="containerBottom text-center">
-            <div className="row d-flex justify-content-center align-items-center">
-              <div className="col-sm-4 d-flex justify-content-center align-items-center">
+            <div className="row d-flex justify-content-center align-items-center ">
+              <div className="col-sm-4 d-flex justify-content-center align-items-center py-5">
                 <div className="cardHome">
                   {/* <div className="card-header CardHeader">BLOG BY MARIOLA</div> */}
                   <br />
                   <div className="card-body">
-                    <h5 className="card-title">
-                      What is something about you that can only be learned by
-                      reading this blog?
-                    </h5>
+                    <h5 className="card-title">Coursera Certification</h5>
                     <br />
                     <br />
-                    <p className="card-text">
-                      As you read this blog, you'll discover something unique
-                      about me - my love for travel. I'm always on the lookout
-                      for new adventures...
+                    <div className="card-text pb-5">
+                      <img
+                        className="MainTeaserImage"
+                        src="./Image/courseOne.png"
+                        alt="Coursera Certification"
+                      />
+                    </div>
+                    <br />
+                    <p>
+                     I've successfully completed
+                      Step 1 of the Google Career Certificates program in the
+                      Foundations of User Experience (UX) Design.
+                    </p>
+                    <p>
+                      Getting to understand the basics, I'm genuinely seeing how
+                      design decisions can shape our everyday digital
+                      experiences. The journey's been both fun and challenging
+                      so far, and I'm super excited for what's next.
                     </p>
                     <br />
-                    <a href="https://3000-mariolah-mariolahgithub-zaasywq1geb.ws-us92.gitpod.io/blog">
-                      <Link
-                        to="/Blog"
-                        // onClick={() => {
-                        //   window.scroll({
-                        //     top: 0,
-                        //     left: 0,
-                        //     behavior: "smooth",
-                        //   });
-                        // }}
-                        className="btn btn-outline-secondary"
-                      >
-                        B L O G
-                      </Link>
-                    </a>
                   </div>
                 </div>
               </div>
@@ -91,41 +109,37 @@ function MainTeaser() {
           </div>
         </section>
       </div>
-      <div className="frameBottom">
+
+      <div className="frameBottom pb-5">
         <section>
           <div className="containerBottom text-center">
-            <div className="row d-flex justify-content-center align-items-center ">
-              <div className="col-sm-4 d-flex justify-content-center align-items-center py-5">
+            <div className="row d-flex justify-content-center align-items-center">
+              <div className="col-sm-4 d-flex justify-content-center align-items-center">
                 <div className="cardHome">
-                  {/* <div className="card-header CardHeader">BLOG BY MARIOLA</div> */}
-                  <br />
                   <div className="card-body">
-                    <h5 className="card-title">
-                      What does it mean to be a good developer?
-                    </h5>
+                    <h5 className="card-title">The Parallax Effect</h5>
                     <br />
                     <br />
                     <p className="card-text">
-                      In my opinion, being a good developer requires being an
-                      effective problem solver. In the course of development,
-                      there are often roadblocks...
+                      What is the Parallax Effect? It refers to a widely
+                      utilized technique where the background of a webpage
+                      scrolls at a slower rate compared to the foreground
+                      elements...
                     </p>
                     <br />
                     <a href="https://3000-mariolah-mariolahgithub-zaasywq1geb.ws-us92.gitpod.io/blog">
-                      <Link
-                        to="/Blog"
-                        // onClick={() => {
-                        //   window.scroll({
-                        //     top: 0,
-                        //     left: 0,
-                        //     behavior: "smooth",
-                        //   });
-                        // }}
-                        className="btn btn-outline-secondary"
-                      >
+                      <Link to="/Blog#parallax-blog-post" className="btn btn-outline-secondary">
                         B L O G
-                        <ScrollRestoration />
                       </Link>
+                    </a>
+                    <a
+                      rel="noreferrer"
+                      href="https://travel-aroundthe-world.vercel.app/"
+                      target="_blank"
+                    >
+                      <button className="btn btn-outline-secondary">
+                        E X A M P L E
+                      </button>
                     </a>
                   </div>
                 </div>

@@ -179,6 +179,9 @@ h3 {
     max-width: 30%; /* Adjust based on how much width you want it to take up */
         /* margin: auto; */
   }
+  .MainTeaserImage {
+    max-height: 195px;
+  }
 }
 
 .btnSVG:first-child {
@@ -216,6 +219,21 @@ h1 {
   font-size: 2.5rem;
   padding: 5% 0;
 }
+.btn.btn-pink {
+    color: gray;
+    /* border-color: pink; */
+}
+
+.btn.btn-pink:hover {
+    color: #fff;
+    background-color: pink;
+}
+.MainTeaserImage {
+  height: 450px;
+  width: auto;
+
+}
+
 
 /* BIO */
 
