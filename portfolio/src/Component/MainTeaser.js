@@ -10,7 +10,7 @@ function MainTeaser() {
             <div className="row d-flex justify-content-center align-items-center py-5">
               <div className="col-sm-4 d-flex justify-content-center align-items-center">
                 <div className="cardHome">
-                  <div className="card-header CardHeader pb-3">Highlights</div>
+                  <div className="card-header CardHeader pb-5">Highlights</div>
                   <br />
                   <div className="card-body">
                     <h5 className="card-title">Barbie Calculator</h5>

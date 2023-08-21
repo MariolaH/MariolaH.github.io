@@ -140,13 +140,13 @@ h3 {
     max-height: 250px;
   }
   .CardHeader {
-    font-size: 16px;
+    font-size: 18px;
   }
   .card-title {
-    font-size: 14px;
+    font-size: 16px;
   }
   .card-text {
-    font-size: 12px;
+    font-size: 14px;
   }
   .projectTitle {
     font-size: 20px;
@@ -239,7 +239,7 @@ h1 {
 
 .bioParagraph {
   font-size: 20px;
-  font-family: monospace;
+  /* font-family: monospace; */
   line-height: 2;
 }
 
