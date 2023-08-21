@@ -49,13 +49,7 @@ function MainTeaser() {
                     <a href="https://3000-mariolah-mariolahgithub-bzsqwralhtx.ws-us104.gitpod.io/iOS">
                       <Link
                         to="/iOS"
-                        // onClick={() => {
-                        //   window.scroll({
-                        //     top: 0,
-                        //     left: 0,
-                        //     behavior: "smooth",
-                        //   });
-                        // }}
+                      
                         className="btn btn-outline-secondary btn-pink"
                       >
                         Barbie Calculator
