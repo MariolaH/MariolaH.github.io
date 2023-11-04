@@ -49,7 +49,6 @@ function MainTeaser() {
                     <a href="https://3000-mariolah-mariolahgithub-bzsqwralhtx.ws-us104.gitpod.io/iOS">
                       <Link
                         to="/iOS"
-                      
                         className="btn btn-outline-secondary btn-pink"
                       >
                         CALCULATOR
@@ -79,21 +78,42 @@ function MainTeaser() {
                     <div className="card-text pb-5">
                       <img
                         className="MainTeaserImage"
-                        src="./Image/courseOne.png"
+                        src="/Image/Course3.png"
+                        // "./Image/courseOne.png"
                         alt="Coursera Certification"
                       />
                     </div>
                     <br />
                     <p className="card-text">
-                      I've successfully completed Step 1 of the Google Career
-                      Certificates program in the Foundations of User Experience
-                      (UX) Design.
+                      I've successfully completed course 3 of the Google Career
+                      Certificates program
                     </p>
                     <p className="card-text">
-                      Getting to understand the basics, I'm genuinely seeing how
-                      design decisions can shape our everyday digital
-                      experiences. The journey's been both fun and challenging
-                      so far, and I'm super excited for what's next.
+                      In this course of the program, I've acquired valuable
+                      skills:
+                    </p>
+
+                    <p>
+                      Storyboarding: I learned to create storyboards to
+                      brainstorm solutions for user needs.
+                    </p>
+                    <p>
+                      Wireframing: I can now create wireframes both on paper and
+                      digitally using Figma, helping me visualize and structure of
+                      my design concepts.
+                    </p>
+                    <p>
+                      Paper Prototyping: I've gained the ability to build
+                      interactive designs through paper prototypes, allowing me
+                      to test and refine user interactions.
+                    </p>
+                    <p>
+                      Low-Fidelity Prototyping in Figma: Using Figma, I can
+                      design low-fidelity prototypes efficiently, leading to
+                      better user experiences. These skills have enhanced my UX
+                      design capabilities, and I look forward to applying them
+                      in real-world projects. Stay tuned for more updates on my
+                      journey!
                     </p>
                     <br />
                   </div>
