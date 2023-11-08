@@ -20,6 +20,48 @@ function Ios() {
                 <div className="card">
                   <video
                     class="card-img-top"
+                    src="./Videos/eggTimerVideo.mov"
+                    height={350}
+                    alt="Calculator that is a Barbie theme"
+                    controls
+                  ></video>
+                  <div className="card-body">
+                    <h4 className="card-title"> EGG TIMER </h4>
+                    <br />
+                    <p className="card-text"> Tech Stack: UIKit</p>
+                    <br />
+                    <br />
+                    {/* <h5 className="card-text">Concepts Utilized:</h5>
+                    <br />
+                    <p> Collection type - Dictionaries</p>
+                    <p> Swift Timer API </p>
+                    <p> Conditional statements - IF/ELSE </p>
+                    <p> Functions with outputs </p>
+                    <p> ProgressView</p> */}
+
+                    <a
+                      rel="noreferrer"
+                      href="https://github.com/MariolaH/EggTimerSwift"
+                      target="_blank"
+                    >
+                      <button className="btn btn-outline-secondary">
+                        View Repo
+                      </button>
+                    </a>
+                    <br />
+                    <br />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="containerBlog">
+            <div className="row d-flex justify-content-center align-items-center py-3">
+              <div className="col-sm-6 d-flex justify-content-center align-items-center py-3">
+                <div className="card">
+                  <video
+                    class="card-img-top"
                     src="./Image/iOSCalculator.mov"
                     height={350}
                     alt="Calculator that is a Barbie theme"
@@ -29,7 +71,6 @@ function Ios() {
                     <h4 className="card-title">BARBIE CALCULATOR</h4>
                     <br />
                     <p className="card-text">Tech Stack: SwiftUI</p>
-
                     <a
                       rel="noreferrer"
                       href="https://github.com/MariolaH/BarbieCalculatorSwift"
