@@ -20,6 +20,41 @@ function Ios() {
                 <div className="card">
                   <video
                     class="card-img-top"
+                    src="./Videos/tipcalculator.mov"
+                    height={350}
+                    alt="Calculator that is a Barbie theme"
+                    controls
+                  ></video>
+                  <div className="card-body">
+                    <h4 className="card-title">
+                      {" "}
+                     SPLIT TIP CALCULATOR
+                    </h4>
+                    <br />
+                    <p className="card-text">Tech Stack: UIKit</p>
+                    <a
+                      rel="noreferrer"
+                      href="https://github.com/MariolaH/TipCalculator/tree/CustomTip"
+                      target="_blank"
+                    >
+                      <button className="btn btn-outline-secondary">
+                        View Repo
+                      </button>
+                    </a>
+                    <br />
+                    <br />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="containerBlog">
+            <div className="row d-flex justify-content-center align-items-center py-3">
+              <div className="col-sm-6 d-flex justify-content-center align-items-center py-3">
+                <div className="card">
+                  <video
+                    class="card-img-top"
                     src="./Videos/eggTimerVideo.mov"
                     height={350}
                     alt="Calculator that is a Barbie theme"
