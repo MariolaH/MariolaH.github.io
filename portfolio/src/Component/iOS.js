@@ -20,13 +20,13 @@ function Ios() {
                 <div className="card">
                   <video
                     class="card-img-top"
-                    src="./Videos/TipCalculator.mov"
+                    src="./Videos/tip:splitCalc.mov"
                     height={350}
-                    alt="Calculator that is a Barbie theme"
+                    alt="tip/split calculator"
                     controls
                   ></video>
                   <div className="card-body">
-                    <h4 className="card-title"> SPLIT TIP CALCULATOR</h4>
+                    <h4 className="card-title"> TIP SPLIT CALCULATOR</h4>
                     <br />
                     <p className="card-text">Tech Stack: UIKit</p>
                     <a
