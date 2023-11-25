@@ -14,6 +14,38 @@ function Ios() {
           <b className="projectTitle">i O S &nbsp; P R O J E C T S</b>
         </h1>
         <section>
+          {/* <div className="containerBlog">
+            <div className="row d-flex justify-content-center align-items-center py-3">
+              <div className="col-sm-6 d-flex justify-content-center align-items-center py-3">
+                <div className="card">
+                  <video
+                    class="card-img-top"
+                    src="./Videos/tip:splitCalc.mov"
+                    height={350}
+                    alt="Weather app"
+                    controls
+                  ></video>
+                  <div className="card-body">
+                    <h4 className="card-title"> WEATHER APP </h4>
+                    <br />
+                    <p className="card-text">Tech Stack: UIKit</p>
+                    <a
+                      rel="noreferrer"
+                      href="https://github.com/MariolaH/Weather-App---Swift"
+                      target="_blank"
+                    >
+                      <button className="btn btn-outline-secondary">
+                        View Repo
+                      </button>
+                    </a>
+                    <br />
+                    <br />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> */}
+
           <div className="containerBlog">
             <div className="row d-flex justify-content-center align-items-center py-3">
               <div className="col-sm-6 d-flex justify-content-center align-items-center py-3">
@@ -26,7 +58,7 @@ function Ios() {
                     controls
                   ></video>
                   <div className="card-body">
-                    <h4 className="card-title"> TIP SPLIT CALCULATOR</h4>
+                    <h4 className="card-title"> TIP SPLIT CALCULATOR </h4>
                     <br />
                     <p className="card-text">Tech Stack: UIKit</p>
                     <a
@@ -63,14 +95,6 @@ function Ios() {
                     <p className="card-text"> Tech Stack: UIKit</p>
                     <br />
                     <br />
-                    {/* <h5 className="card-text">Concepts Utilized:</h5>
-                    <br />
-                    <p> Collection type - Dictionaries</p>
-                    <p> Swift Timer API </p>
-                    <p> Conditional statements - IF/ELSE </p>
-                    <p> Functions with outputs </p>
-                    <p> ProgressView</p> */}
-
                     <a
                       rel="noreferrer"
                       href="https://github.com/MariolaH/EggTimerSwift"
@@ -100,7 +124,7 @@ function Ios() {
                     controls
                   ></video>
                   <div className="card-body">
-                    <h4 className="card-title">BARBIE CALCULATOR</h4>
+                    <h4 className="card-title"> BARBIE CALCULATOR </h4>
                     <br />
                     <p className="card-text">Tech Stack: SwiftUI</p>
                     <a
@@ -132,7 +156,7 @@ function Ios() {
                     controls
                   ></video>
                   <div className="card-body">
-                    <h4 className="card-title">Card Workout Game</h4>
+                    <h4 className="card-title"> CARD WORKOUT GAME </h4>
                     <br />
                     <p className="card-text">Tech Stack: Swift UIKit</p>
                     <p className="card-text">View Repo</p>
