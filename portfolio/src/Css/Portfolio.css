@@ -101,7 +101,6 @@
   color: black;
 }
 .nav-item {
-  /* text-align: center; */
 padding: 10px;
   text-decoration: none;
   border-radius: 10px;
@@ -255,17 +254,33 @@ h1 {
   }
 }
 
-/* blog */
+/* landing */
 
 .frameBottom {
   padding-left: 25px;
   padding-right: 25px;
   padding: 1rem;
+  
 }
 
 .containerBottom {
   padding-left: 60px;
   padding-right: 60px;
+}
+
+.cardHome {
+    border: 1px solid #ccc; /* Add a border */
+    border-radius: 20px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);/* Add a shadow */
+  padding: 20px; /* Add some padding to create space between content and border */
+  margin: 10px; /* Add margin for spacing between items */
+ /* transition: all 0.3s ease; */
+ transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.cardHome:hover {
+  transform: scale(1.05); /* Slightly enlarges the image on hover */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Enhances the shadow on hover */
 }
 
 /* Projects */
