@@ -126,6 +126,7 @@ h3 {
   font-size: 2rem;
   font-family: monospace;
   color: rgb(106, 104, 100);
+  padding-top: 20px;
 }
 
 .card-title {

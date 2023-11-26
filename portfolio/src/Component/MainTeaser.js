@@ -5,13 +5,30 @@ function MainTeaser() {
   return (
     <>
       <div className="frameBottom">
+        <br />
         <section>
+          <div className="frameBottom py-5">
+            <section>
+              <div className="containerBottom text-center">
+                <div className="row d-flex justify-content-center align-items-center">
+                  <div className="col-sm-4 d-flex justify-content-center align-items-center">
+                    <div className="cardHome">
+                      <div className="card-body">
+                        <div className="card-header text-center CardHeader">
+                          Highlights
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+          </div>
           <div className="containerBottom text-center">
             <div className="row d-flex justify-content-center align-items-center py-5">
               <div className="col-sm-4 d-flex justify-content-center align-items-center">
                 <div className="cardHome">
-                  <div className="card-header CardHeader pb-5">Highlights</div>
-                  <br />
+                  {/* <div className="card-header CardHeader pb-5">Highlights</div> */}
                   <div className="card-body">
                     <h5 className="card-title">Barbie Calculator</h5>
                     <br />
@@ -99,8 +116,8 @@ function MainTeaser() {
                     </p>
                     <p>
                       Wireframing: I can now create wireframes both on paper and
-                      digitally using Figma, helping me visualize and structure of
-                      my design concepts.
+                      digitally using Figma, helping me visualize and structure
+                      of my design concepts.
                     </p>
                     <p>
                       Paper Prototyping: I've gained the ability to build
