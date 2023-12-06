@@ -93,44 +93,58 @@ function MainTeaser() {
                     <br />
                     <br />
                     <div className="card-text pb-5">
-                      <img
-                        className="MainTeaserImage"
-                        src="/Image/Course3.png"
-                        // "./Image/courseOne.png"
-                        alt="Coursera Certification"
-                      />
+                      <a
+                        rel="noreferrer"
+                        href="https://coursera.org/share/2394e6225b570c3721853656a0de32c0"
+                        target="_blank"
+                      >
+                        <img
+                          className="MainTeaserImage"
+                          src="/Image/UX.png "
+                          alt="Coursera Certification"
+                        />
+                      </a>
                     </div>
                     <br />
                     <p className="card-text">
-                      I've successfully completed course 3 of the Google Career
-                      Certificates program
+                      🎉 Exciting Update: Just completed the Conduct UX Research
+                      and Test Early Concepts for the Google UX Design Course!
+                      🚀
                     </p>
                     <p className="card-text">
-                      In this course of the program, I've acquired valuable
-                      skills:
+                      Throughout this course, I immersed myself into the world
+                      of UX design, mastering essential skills that are pivotal
+                      in creating user-centric experiences. Here are some
+                      highlights of what I've accomplished:
                     </p>
 
                     <p>
-                      Storyboarding: I learned to create storyboards to
-                      brainstorm solutions for user needs.
+                      📊 **User Research:** I've gained valuable insights into
+                      planning and conducting research studies, equipping me
+                      with the tools to understand user needs.
                     </p>
                     <p>
-                      Wireframing: I can now create wireframes both on paper and
-                      digitally using Figma, helping me visualize and structure
-                      of my design concepts.
+                      🔍 **Usability Studies:** I had the opportunity to design
+                      and execute my very own usability study, providing me with
+                      hands-on experience in assessing the usability of my app.
                     </p>
                     <p>
-                      Paper Prototyping: I've gained the ability to build
-                      interactive designs through paper prototypes, allowing me
-                      to test and refine user interactions.
+                      📈 **Data Analysis:** Transforming raw research data into
+                      actionable insights has been a key takeaway. I now possess
+                      the skills to derive meaningful conclusions from research
+                      findings.
                     </p>
                     <p>
-                      Low-Fidelity Prototyping in Figma: Using Figma, I can
-                      design low-fidelity prototypes efficiently, leading to
-                      better user experiences. These skills have enhanced my UX
-                      design capabilities, and I look forward to applying them
-                      in real-world projects. Stay tuned for more updates on my
-                      journey!
+                      🔧 **Design Iteration:** Understanding the importance of
+                      refining designs based on research findings is fundamental
+                      to creating user-friendly products.
+                    </p>
+                    <p>
+                      This course has expanded my horizons and equipped me with
+                      the tools needed to create designs that truly resonate
+                      with users. I'm looking forward to putting these skills
+                      into practice and contributing to the world of user
+                      experience.
                     </p>
                     <br />
                   </div>
