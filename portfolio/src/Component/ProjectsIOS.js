@@ -1,5 +1,5 @@
 import React from "react";
-import Ios from "./iOS";
+// import Ios from "./iOS";
 
 function ProjectsIOS() {
   return (

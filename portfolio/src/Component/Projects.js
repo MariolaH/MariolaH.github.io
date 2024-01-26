@@ -13,6 +13,8 @@ function Projects() {
           <b className="projectTitle">P R O J E C T S</b>
         </h1>
         <section>
+
+          
           <div className="containerBlog">
             <div className="row d-flex justify-content-center align-items-center py-3">
               <div className="col-sm-6 d-flex justify-content-center align-items-center py-3">
