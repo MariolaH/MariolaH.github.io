@@ -21,6 +21,38 @@ function Ios() {
                 <div className="card">
                   <video
                     class="card-img-top"
+                    src="./Videos/H4XOR NEWS.mp4"
+                    height={350}
+                    alt="LAS VEGAS DICE APP"
+                    controls
+                  ></video>
+                  <div className="card-body">
+                    <h4 className="card-title"> H4XOR NEWS APP </h4>
+                    <br />
+                    <p className="card-text">Tech Stack: SwiftUI</p>
+                    <a
+                      rel="noreferrer"
+                      href="https://github.com/MariolaH/H4XOR-News"
+                      target="_blank"
+                    >
+                      <button className="btn btn-outline-secondary">
+                        View Repo
+                      </button>
+                    </a>
+                    <br />
+                    <br />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="containerBlog">
+            <div className="row d-flex justify-content-center align-items-center py-3">
+              <div className="col-sm-6 d-flex justify-content-center align-items-center py-3">
+                <div className="card">
+                  <video
+                    class="card-img-top"
                     src="./Videos/DiceApp.mp4"
                     height={350}
                     alt="LAS VEGAS DICE APP"
