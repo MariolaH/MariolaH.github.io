@@ -23,7 +23,7 @@ function Ios() {
                     class="card-img-top"
                     src="./Videos/H4XOR NEWS.mp4"
                     height={350}
-                    alt="LAS VEGAS DICE APP"
+                    alt="H4XOR NEWS APP"
                     controls
                   ></video>
                   <div className="card-body">
