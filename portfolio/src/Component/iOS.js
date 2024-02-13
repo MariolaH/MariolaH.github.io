@@ -84,7 +84,7 @@ function Ios() {
               <div className="col-sm-6 d-flex justify-content-center align-items-center py-3">
                 <div className="card">
                   <img
-                    class="card-img-top"
+                    class="businessCard"
                     src="./Image/businesscard.png"
                     height={450}
                     // width={550}

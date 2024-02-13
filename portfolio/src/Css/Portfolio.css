@@ -3,6 +3,9 @@
   .homePagePic {
     max-width: 600px;
   }
+   .businessCard {
+    max-width: 600px;
+  }
   .CardHeader {
     font-size: 3rem;
   }
