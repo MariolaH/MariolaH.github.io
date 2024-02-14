@@ -5,6 +5,7 @@ import Bio from "./Component/Bio.js";
 import Blog from "./Component/Blog";
 import Projects from "./Component/Projects.js";
 import Contact from "./Component/Contact.js";
+import UX from "./Component/UX.js";
 import reportWebVitals from './reportWebVitals';
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Ios from './Component/iOS';
@@ -35,6 +36,10 @@ const router = createBrowserRouter([
     path: "/contact",
     element: <Contact />,
   },
+  {
+      path: "/UX",
+    element: <UX />,
+  }
 ]);
 
 

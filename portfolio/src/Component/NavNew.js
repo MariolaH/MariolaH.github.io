@@ -4,9 +4,8 @@ import Navbar from "react-bootstrap/Navbar";
 import NavbarToggle from "react-bootstrap/esm/NavbarToggle";
 import { BrowserRouter as Router, Link } from "react-router-dom";
 // import Blog from "./portfolio/src/Component/Blog.js";
-
+//USE THIS ONE!!!
 function NavNew() {
-
   return (
     <>
       <div className="nav-container">
@@ -33,11 +32,12 @@ function NavNew() {
                   <Nav.Link as={Link} to={"/projects"} className="nav-item">
                     &#160; P R O J E C T S &#160;
                   </Nav.Link>
-                  {/* <Nav.Link as={Link} to={"/contact"}>
-              C O N T A C T &#160; &#160;
-            </Nav.Link> */}
+                  {/* <Nav.Link as={Link} to={"/UX"} className="nav-item">
+                    &#160; U X &#160;
+                  </Nav.Link> */}
                 </Nav>
-                <a className="nav-item"
+                <a
+                  className="nav-item"
                   rel="noreferrer"
                   target="_blank"
                   href="https://www.linkedin.com/in/mariola-hullings-9579b6238/"
@@ -49,7 +49,8 @@ function NavNew() {
                   />
                 </a>
 
-                <a className="nav-item"
+                <a
+                  className="nav-item"
                   rel="noreferrer"
                   target="_blank"
                   href="https://github.com/MariolaH"
