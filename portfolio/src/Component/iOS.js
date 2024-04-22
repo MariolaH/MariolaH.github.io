@@ -21,7 +21,7 @@ function Ios() {
                 <div className="card">
                   <video
                     class="card-img-top"
-                    src="./Videos/Todolist.mov"
+                    src="./Videos/ToDo.mov"
                     height={350}
                     alt="TO DO LIST APP"
                     controls
